@@ -4,9 +4,9 @@ _The mission of Strixhaven University is to discover and preserve magical knowle
 
 —Strixhaven mission statement
 
-A magical world boasts many places where students can study magic and many sages who take eager learners under their wings. But being accepted to Strixhaven University is a special honor, the dream of many young students. Strixhaven is a place of enlightenment and learning, and both its graduates and its delegates are typically welcomed and respected wherever they go.
+A magical world boasts many places where students can study magic and many sages who take eager learners under their wings. But being accepted to Strixhaven University is a special honour, the dream of many young students. Strixhaven is a place of enlightenment and learning, and both its graduates and its delegates are typically welcomed and respected wherever they go.
 
-Founded seven centuries ago by five ancient dragons, Strixhaven is the premier institution of magical learning, drawing promising young mages from all over. Each equipped with its own campus and faculty, Strixhaven's five colleges—summarized in the Colleges of Strixhaven table—cover a vast array of academic and magical specialties.
+Founded seven centuries ago by five ancient dragons, Strixhaven is the premier institution of magical learning, drawing promising young mages from all over. Each equipped with its own campus and faculty, Strixhaven's five colleges—summarised in the Colleges of Strixhaven table—cover a vast array of academic and magical specialties.
 
 ## Colleges of Strixhaven
 
@@ -28,7 +28,7 @@ This campaign assumes that the player characters are students at Strixhaven Univ
 
 The characters are also subject to the authority of the university's faculty and staff members. Circumstances will at times cause player characters to defy faculty authority—and even deans—during their adventures, and the threat of detention or even expulsion might hang over their head.
 
-Finally, student characters are part of a school community. They live in university housing, eat in dining halls, and spend the majority of their time on campus. They eat, sleep, study, socialize, and adventure as part of a community of students, faculty, and staff. The school is like a town, where a relatively small cast of characters can play significant roles over the course of the campaign.
+Finally, student characters are part of a school community. They live in university housing, eat in dining halls, and spend the majority of their time on campus. They eat, sleep, study, socialise, and adventure as part of a community of students, faculty, and staff. The school is like a town, where a relatively small cast of characters can play significant roles over the course of the campaign.
 
 ### It's an Academy of Mages
 
@@ -40,7 +40,7 @@ Magic is everywhere on campus. The campus culture encourages finding magical sol
 
 Strixhaven draws students and faculty from across the world and from other realms in the multiverse. The university's students and faculty are united by a desire to learn and include humans, elves, dwarves, owlin, orcs, trolls, vampires, and studious folk of many other origins.
 
-For nonplayer characters, you're as likely to meet a pixie, a dryad, a giant, a [treant](https://5e.tools/bestiary.html#treant_mm), or another fantastical creature on campus as you are to meet a Humanoid. The faculty members are just as varied and include genasi, tritons, and even a bipedal brown bear.
+For non-player characters, you're as likely to meet a pixie, a dryad, a giant, a [treant](https://5e.tools/bestiary.html#treant_mm), or another fantastical creature on campus as you are to meet a Humanoid. The faculty members are just as varied and include genasi, tritons, and even a bipedal brown bear.
 
 To the faculty and students of Strixhaven, it is unremarkable to meet someone who hails from a far-off land, since almost everyone on campus is from somewhere else. Strixhaven has a place for anyone who is dedicated to magic-enhanced study.
 
@@ -82,17 +82,17 @@ Upon retiring, a professor receives the title of mage emeritus. Mages emeriti ar
 
 ## Students
 
-Students at Strixhaven spend their first year in a course of general studies, which lays the foundation for the more specialized work to follow. During this year, they wear a uniform of black, white, and gray. They're encouraged to study broadly so that they become acquainted with a wide range of disciplines.
+Students at Strixhaven spend their first year in a course of general studies, which lays the foundation for the more specialised work to follow. During this year, they wear a uniform of black, white, and gray. They're encouraged to study broadly so that they become acquainted with a wide range of disciplines.
 
 First-year students live in dormitories located on the central campus and often form close friendships there that last throughout their educational careers, even when members of tight-knit groups of friends join different colleges in their second year. A few students continue to live on central campus after choosing a college, particularly if they pursue extensive studies in multiple colleges or work as resident advisers to first-year students. But most students move to dormitories located on their chosen college's campus in their second year.
 
 ### Choosing a College
 
-Before starting their second year of studies, students choose one of the five colleges—Lorehold, Prismari, Quandrix, Silverquill, or Witherbloom—to be their academic home for the remainder of their education. From this point, students wear uniforms featuring the colors of their college, though these outfits aren't as unvarying as the first-year garb.
+Before starting their second year of studies, students choose one of the five colleges—Lorehold, Prismari, Quandrix, Silverquill, or Witherbloom—to be their academic home for the remainder of their education. From this point, students wear uniforms featuring the colours of their college, though these outfits aren't as unvarying as the first-year garb.
 
 ### Two Counselors. 
 
-Upon choosing a college, a student is assigned two professors to serve as counselors to help the student plan a course of studies. The two deans of the college assign these two counselors, who represent the poles of the college's philosophical opposition. By design, the two counselors tend to offer conflicting advice, forcing the student to navigate opposing principles. For example, a student pursuing historical studies in Lorehold College might have one counselor who focuses on the unpredictable, war-filled chaos of historical reality and another who dwells on the idea of an orderly progression toward an ideal. The former might encourage the student to choose courses based on gut feeling, to delve into the military aspects of an issue, and to supplement their academic studies with some practical martial training. The other counselor, meanwhile, might offer several ordered, rational proposals for course selection, focus on the political and human aspects of historical issues, and place less emphasis on martial prowess. The student must then navigate this conflicting advice and chart their own course.
+Upon choosing a college, a student is assigned two professors to serve as counsellors to help the student plan a course of studies. The two deans of the college assign these two counsellors, who represent the poles of the college's philosophical opposition. By design, the two counsellors tend to offer conflicting advice, forcing the student to navigate opposing principles. For example, a student pursuing historical studies in Lorehold College might have one counsellor who focuses on the unpredictable, war-filled chaos of historical reality and another who dwells on the idea of an orderly progression toward an ideal. The former might encourage the student to choose courses based on gut feeling, to delve into the military aspects of an issue, and to supplement their academic studies with some practical martial training. The other counsellor, meanwhile, might offer several ordered, rational proposals for course selection, focus on the political and human aspects of historical issues, and place less emphasis on martial prowess. The student must then navigate this conflicting advice and chart their own course.
 
 ### Course of Study.   
 
@@ -104,9 +104,9 @@ A student's course of study at Strixhaven lasts at least four years but allows f
 
 ## Administration
 
-The day-to-day functioning of Strixhaven relies on hundreds of laborers, clerks, coaches, administrators, and others. In addition to legions of people who devote their lives to the university's operations, numerous automatons and artificial life-forms—various kinds of Constructs—serve in various roles, including campus guides and library assistants.
+The day-to-day functioning of Strixhaven relies on hundreds of labourers, clerks, coaches, administrators, and others. In addition to legions of people who devote their lives to the university's operations, numerous automatons and artificial life-forms—various kinds of Constructs—serve in various roles, including campus guides and library assistants.
 
-All these operations are managed by an administration overseen by the ten deans, two in each college. Each dean is an esteemed professor who embraces one side of their school's philosophical dichotomy. The deans, like the professors who serve as counselors to students, view it as their role to disagree with each other and guide the college by way of their arguments. Furthermore, rivalries among the deans only exacerbate this combative attitude.
+All these operations are managed by an administration overseen by the ten deans, two in each college. Each dean is an esteemed professor who embraces one side of their school's philosophical dichotomy. The deans, like the professors who serve as counsellors to students, view it as their role to disagree with each other and guide the college by way of their arguments. Furthermore, rivalries among the deans only exacerbate this combative attitude.
 
 When the argumentative deans fail to chart a coherent course for Strixhaven, the Founder Dragons are occasionally forced to intervene. They don't step in directly, but a director known as the Voice of the Founders—currently an imposing man named Taiva—speaks on the dragons' behalf.
 
@@ -114,7 +114,7 @@ When the argumentative deans fail to chart a coherent course for Strixhaven, the
 
 Strixhaven occupies hundreds of acres, spread out over six campuses. Each of the university's five colleges has its own campus, and the central campus, home to the Biblioplex and Strixhaven Stadium, serves as a hub for university life.
 
-Well-maintained roads connect the six campuses and walking from one to another can take a half-hour or more. Regular shuttles—large carriages drawn by horselike automata—run on an hourly schedule between a station near the Biblioplex and each of the satellite campuses, making the journey in about 15 minutes. In addition, each campus has multiple permanent teleportation circles, which faculty and more advanced students can use when they require instantaneous travel, and several magical portals exist as well. These portals can be unpredictable: they aren't necessarily open all the time, they don't always lead to the same places, and some require complicated conditions or keys to open.
+Well-maintained roads connect the six campuses and walking from one to another can take a half-hour or more. Regular shuttles—large carriages drawn by horse-like automata—run on an hourly schedule between a station near the Biblioplex and each of the satellite campuses, making the journey in about 15 minutes. In addition, each campus has multiple permanent teleportation circles, which faculty and more advanced students can use when they require instantaneous travel, and several magical portals exist as well. These portals can be unpredictable: they aren't necessarily open all the time, they don't always lead to the same places, and some require complicated conditions or keys to open.
 
 ![[Pasted image 20251010133214.png]]
 
