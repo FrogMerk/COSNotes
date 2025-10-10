@@ -1,0 +1,3 @@
+Grumpy, spiky, and generally irritating, pest [[mascots]] inhabit the muggy bayou of Sedgemoor. However, these ferret-sized swamp creatures hold deep wells of life essence, making them convenient fuel sources for the magic of Witherbloom mages. As such, many Witherbloom students have adopted pests from the bayou as pets, and pests, in all their spiny glory, have become the [[mascots]] of the college.
+![[Pest Mascot.png]]  
+![[Pest MascotStat.png]]

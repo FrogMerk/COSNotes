@@ -1,0 +1,3 @@
+Sedgemoor, the bayou area that encompasses the Witherbloom campus, is known for a range of swamp creatures: bats, crocodilian monsters, zombified animals, lumbering beasts called brackish trudges, and canine creatures called groffs (brackish trudges and groffs are described in chapter 7). Sedgemoor is an excellent place to find pest mascots, herbs, spider silk, fungi, and other ingredients for potions and spells.
+
+Characters have the opportunity to explore Sedgemoor in chapter 3.
