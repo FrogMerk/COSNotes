@@ -1,5 +1,4 @@
 [
-  "obsidian-git",
   "templater-obsidian",
   "obsidian-hotkeys-for-templates",
   "obsidian-enhancing-export",
@@ -11,5 +10,6 @@
   "obsidian-5e-statblocks",
   "webpage-html-export",
   "initiative-tracker",
-  "obsidian-dice-roller"
+  "obsidian-dice-roller",
+  "obsidian-git"
 ]

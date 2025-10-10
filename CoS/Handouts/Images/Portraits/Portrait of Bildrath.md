@@ -1,0 +1,4 @@
+---
+public: true
+---
+![[Bildrath.jpg]]
