@@ -13,3 +13,15 @@ The following locations are keyed to map 3.1. All descriptions assume the charac
 
 ### B1. Main Entrance
 Enchanted marble steps lead up 5 feet to a small plaza at the Biblioplex's entrance. The double door's vertical handles are each carved in the likeness of a robed scholar. During the day, the doors stand open. At night, the doors are closed, locked, and sealed with an arcane lock spell. A successful DC 25 Dexterity check using thieves' tools opens the lock (DC 35 while the arcane lock is in effect). Only the Biblioplex's reference librarians and certain faculty members know the arcane lock's password.
+### B2. Biblioplex Lounge
+Luxurious couches and sturdy tables furnish this spacious area. Students, employees, and staff members often use this lounge to relax between shifts in the student store (area B5), the Biblioplex café (area B6), or elsewhere in the library. Each table holds piles of magazines, newsletters, flyers, and nonmagical scrolls from around campus. A character who examines these materials finds recruitment flyers from 1d3 Extracurriculars. They also find "Help Wanted" ads for the Jobs at the Biblioplex. Extracurriculars and Jobs are detailed earlier in the chapter.
+### B3. Student Café Seating
+This area typically holds 21 (6d6) students, all of them studying, eating, chatting, or even sleeping. Many enjoy food and drinks from the café (area B6).
+### B4. Information Desk
+Three faculty-appointed reference librarians work at each of these circular desks (use any of the professor stat blocks found in chapter 7 if needed). All are expert scholars and powerful mages. They can provide helpful instructions for where to find any public location or collection in the Biblioplex.
+### B5. Student Store
+This small shop is stocked with books, equipment, and gear useful as academic supplies. The store's manager is Groff Lundquist (neutral good human commoner), a friendly Strixhaven staff member known for his ability to fashionably mix and match items of university apparel. Students can buy hats, scarves, tunics, robes, gloves, and other apparel embroidered with the Strixhaven star or with the sigil of any of Strixhaven's colleges. Costs range from 5 cp to 5 gp or more, at your discretion.
+
+Once a character chooses a college at the start of second year, they receive a set of college robes, a knit hat, a scarf, a tunic, and gloves free of charge. (This set normally costs 5 gp.)
+
+In addition to nonmagical gear and clothing, the store also contains the magic items from the "Magic Items" section of chapter 2.
