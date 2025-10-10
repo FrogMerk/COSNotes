@@ -59,6 +59,10 @@ Floor-to-ceiling bookshelves fill the center and the east end of the library's f
 
 Characters who browse these shelves unaided stumble on what they need with a successful DC 15 Wisdom (Perception) check. However, it's always easier to ask a reference librarian (area B4).
 ### B11. Hall of Oracles
-This hallowed hall is filled with statues of the university's past Oracles. At the center of the hall, a pulsing ball of magical energy—the Strixhaven Snarl—fills the area with bright light. See {} for information about snarls and the Oracle.
+This hallowed hall is filled with statues of the university's past Oracles. At the center of the hall, a pulsing ball of magical energy—the Strixhaven Snarl—fills the area with bright light. See [[Snarls and Star Arches]] for information about snarls and [[Archaics and the Oracle]].
 
-The "Orientation Challenge" event starts here.
+The "Orientation Challenge" event starts here. 
+### B12. Student and Alumni Art Gallery
+This crisp-looking room features white walls and columns that stretch from floor to ceiling. Displayed on or within these are art pieces representative of various media. Students from Prismari College typically tend this space, and three Prismari pledgemages (see chapter 7) can be found here most days, either cleaning the gallery or studying the techniques used in the displayed pieces. A storage area at the back holds supplies and artwork waiting to go on display.
+
+The Distinguished Society of Fine Artists often meets and holds discussions here. If the characters explore this area before or after orientation, Cadoras Damellawar (chaotic good elf first-year student; see the "Fellow Students" section) is here recruiting first-year students to the society.
