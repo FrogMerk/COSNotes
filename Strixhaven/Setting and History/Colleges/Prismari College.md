@@ -22,7 +22,7 @@ Uvilda Mistcoiler (neutral good genasi [[Prismari professor of perfection]]) is 
 
 Uvilda believes that good art comes from the head. To her, carefully measured strokes and deliberate object placement make the difference between fully realized art and a total mess. If Dean Nassari interrupts her careful work with bombastic expressions one more time, Uvilda is prepared to enroll in Quandrix to learn how to shrink Nassari.
 ### Nassari, Dean of Expression
-Nassari (chaotic good genasi [[Prismari Professor of Expression]]) is the current Dean of Expression. Nassari always wants to see art that is bigger, more radical in concept, and more emotionally powerful. For their final project as a mage-student, Nassari famously "turned in" an earthquake, which almost destroyed three campus buildings. The piece received a standing ovation from the mage-student body—and a grumpy thumbs down from the campus construction golems.
+Nassari (chaotic good genasi [[Prismari Professor of Expression]]) is the current Dean of Expression. Nassari always wants to see art that is bigger, more radical in concept, and more emotionally powerful. For their final project as a mage-student, Nassari famously "turned in" an earthquake, which almost destroyed three campus buildings. The piece received a standing ovation from the mage-student body—and a grumpy thumbs down from the campus construction [[golems]].
 
 Nassari believes that true expression comes from the heart. They encourage their students to treat the entire world as a canvas on which to spread emotion and excitement. Nassari takes little heed of Dean Mistcoiler's quiet masterpieces and often feigns forgetfulness about Dean Mistcoiler's very existence.
 ### Veyran, Voice of Duality 
