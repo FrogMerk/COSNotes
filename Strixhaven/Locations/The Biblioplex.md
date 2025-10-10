@@ -25,3 +25,4 @@ This small shop is stocked with books, equipment, and gear useful as academic su
 Once a character chooses a college at the start of second year, they receive a set of college robes, a knit hat, a scarf, a tunic, and gloves free of charge. (This set normally costs 5 gp.)
 
 In addition to nonmagical gear and clothing, the store also contains the magic items from the "Magic Items" section of chapter 2.
+
