@@ -1,0 +1,1 @@
+Each of Strixhaven's five colleges
