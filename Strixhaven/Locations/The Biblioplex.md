@@ -31,3 +31,19 @@ One wall of this area is covered with a mural made from a living tree's roots, w
 Up to ten students are typically present here during the day. Ordinarily, three more students work here, but during orientation, the café's manager, Aisla Fitzbottom (chaotic good gnome commoner), is working alone. She is charmingly perky and has a mind like a steel trap when it comes to recognizing students. However, her organizational skills are somewhat lackadaisical.
 
 The café always serves coffee and tea, which costs 1 cp per cup. The sandwich of the day varies. Roll below to determine which sandwich is available on any given day in the café.
+
+![[biblioplex cafe.png]]
+
+#### Café Sandwich of the Day
+
+| d6  | Sandwich                                          |
+| --- | ------------------------------------------------- |
+| 1   | Grilled halloumi with morels on wheat             |
+| 2   | Toasted cockatrice gizzards on rye                |
+| 3   | Open-faced radish chips, deep-fried with dijon    |
+| 4   | Crunchy frog legs on toast                        |
+| 5   | Rainbow carrots and watercress chestnuts on white |
+| 6   | Dragonbreath peppers and salami on a bagel        |
+### B7. Lecture Hall
+Each of these halls hosts interdisciplinary lectures for Strixhaven students. The seats magically grow or shrink to comfortably accommodate students of any size or body type. The halls' acoustics are magically enhanced to amplify the professor's lecture and minimize the disruption of side conversations. While a class is in session, each hall holds a professor and up to thirty students.
+### B8. Study Area
