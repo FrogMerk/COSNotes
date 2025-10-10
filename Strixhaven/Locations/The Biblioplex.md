@@ -47,3 +47,18 @@ The café always serves coffee and tea, which costs 1 cp per cup. The sandwich o
 ### B7. Lecture Hall
 Each of these halls hosts interdisciplinary lectures for Strixhaven students. The seats magically grow or shrink to comfortably accommodate students of any size or body type. The halls' acoustics are magically enhanced to amplify the professor's lecture and minimize the disruption of side conversations. While a class is in session, each hall holds a professor and up to thirty students.
 ### B8. Study Area
+These open study areas feature simple wooden tables and chairs. During the day, up to thirty students can typically be found here.
+
+If the characters pass by the western study area before orientation, members of the Live-Action Roleplaying Guild are pulling costumes and props from a half dozen old trunks. The guild is preparing for an event later on the Biblioplex's lawn: a game they call Beholders versus Behirs. Rosie Wuzfeddlims (chaotic good gnome first-year student; see the "Fellow Students" section) is directing students as they cobble together beholder and behir costumes, as well as visual effects made from sheets, blankets, wooden frames, tin plates, and illusion magic. (This preparation erupts into chaos during "That Trunk Has Teeth!" later in this chapter.)
+### B9. Book Garden
+In these quiet areas, students sit on the grass and study among lush foliage. Sometime last year, three awakened shrubs wandered in here and settled in each garden, and the university has welcomed them to stay. Members of Witherbloom College typically tend this space, and three Witherbloom pledgemages (see chapter 7) can be found here most days.
+
+Members of the Fantastical Horticulture Club often relax in this area and hold meetings here from time to time. If the characters explore this area before or after orientation, Urzmaktok Grojsh (neutral orc Witherbloom apprentice; see the "Fellow Students" section) is here, recruiting first-year students to the club. 
+### B10. Main Stacks
+Floor-to-ceiling bookshelves fill the center and the east end of the library's first floor, with the denser east stacks under a magic effect that shifts them when students approach, creating space to stand single-file between them. These books are mostly introductory texts, and first-year students are often directed here by their instructors. In each of these areas, two [[Cogwork Archivists]] (see chapter 7) busily shelve returned or misfiled books.
+
+Characters who browse these shelves unaided stumble on what they need with a successful DC 15 Wisdom (Perception) check. However, it's always easier to ask a reference librarian (area B4).
+### B11. Hall of Oracles
+This hallowed hall is filled with statues of the university's past Oracles. At the center of the hall, a pulsing ball of magical energy—the Strixhaven Snarl—fills the area with bright light. See {} for information about snarls and the Oracle.
+
+The "Orientation Challenge" event starts here.
