@@ -1,1 +1,1 @@
-Each of Strixhaven's five colleges
+Each of Strixhaven's five colleges has a mascot 
