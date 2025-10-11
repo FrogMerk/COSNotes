@@ -18,7 +18,7 @@ The perspective of expression instead emphasizes the portrayal of personal emoti
 This section describes noteworthy members of the Prismari faculty. Some of them use a Prismari-specific stat block. Several of them are genasi, who are Humanoids touched by the Elemental Planes.
 
 ### Uvilda Mistcoiler, Dean of Perfection
-Uvilda Mistcoiler (neutral good genasi [[Prismari professor of perfection]]) is the current Dean of Perfection. A master of artistic technique, Uvilda trains with a range of elements whenever she isn't focused on her teaching. She is known for giving students profoundly insightful feedback, which she tailors to each individual. After a review, she often offers a small piece of advice that alters the student's point of view and work forever—for the better.
+Uvilda Mistcoiler (neutral good genasi [[Prismari Professor of Perfection]]) is the current Dean of Perfection. A master of artistic technique, Uvilda trains with a range of elements whenever she isn't focused on her teaching. She is known for giving students profoundly insightful feedback, which she tailors to each individual. After a review, she often offers a small piece of advice that alters the student's point of view and work forever—for the better.
 
 Uvilda believes that good art comes from the head. To her, carefully measured strokes and deliberate object placement make the difference between fully realized art and a total mess. If Dean Nassari interrupts her careful work with bombastic expressions one more time, Uvilda is prepared to enroll in Quandrix to learn how to shrink Nassari.
 ### Nassari, Dean of Expression
@@ -26,7 +26,7 @@ Nassari (chaotic good genasi [[Prismari Professor of Expression]]) is the curren
 
 Nassari believes that true expression comes from the heart. They encourage their students to treat the entire world as a canvas on which to spread emotion and excitement. Nassari takes little heed of Dean Mistcoiler's quiet masterpieces and often feigns forgetfulness about Dean Mistcoiler's very existence.
 ### Veyran, Voice of Duality 
-In addition to being an accomplished elementalist, Veyran (chaotic good genasi [[Prismari professor of perfection]]) serves as a mentor to many Prismari pledgemages. She advocates enthusiastically for the importance of both passion and disciplined technique in any artistic pursuit. If a new student is upset or overwhelmed, she eagerly calls forth playful, beautiful elemental creatures to cheer up the student.
+In addition to being an accomplished elementalist, Veyran (chaotic good genasi [[Prismari Professor of Perfection]]) serves as a mentor to many Prismari pledgemages. She advocates enthusiastically for the importance of both passion and disciplined technique in any artistic pursuit. If a new student is upset or overwhelmed, she eagerly calls forth playful, beautiful elemental creatures to cheer up the student.
 ### Zaffai, Thunder Conductor
 As soon as Zaffai (chaotic neutral human [[Prismari Professor of Expression]]) came of age, his parents sent him to Strixhaven, assuring him his budding musical genius deserved the finest instruction in the world. (In truth, though he did possess prodigious talent, they were also growing tired of their house being randomly struck by lightning or engulfed in cyclones whenever he practiced.) Even as he flourished as both mage and musician, he discovered a new aptitude: conducting.
 
