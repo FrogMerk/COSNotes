@@ -26,7 +26,7 @@
 - [[Dragons, Metallic]]
 - [[Dragon Turtle]]
 - [[Drider]]
-- [[Dryad]]
+- [[DnD Notes/Reference Content/monsters/Dryad]]
 - [[Duergar]]
 - [[Duergar]]
 - [[Elementals]]
