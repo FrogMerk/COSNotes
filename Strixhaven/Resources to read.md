@@ -31,3 +31,12 @@ Smith, Marcus Terrell. ["A Silent Voice Calls"](https://magic.wizards.com/en/ar
 Suarez, Reinhardt. ["The Chains That Bind"](https://magic.wizards.com/en/articles/archive/magic-story/chains-bind-2021-04-09).
 
 - ["The Mentor"](https://magic.wizards.com/en/articles/archive/magic-story/mentor-2021-04-16).
+
+## Additional Side Adventures:
+
+artful_dodger12. [Homework for Arcano-Botany (Level 1)](https://reddit.com/r/StrixhavenDMs/comments/ryauno/homework_for_arcanobotany_a_short_adventure_for/).
+
+- [Homework Assignment for Magic and Art](https://reddit.com/r/StrixhavenDMs/comments/rzoyop/homework_assignment_for_history_of_magic_art/).
+    
+
+Shaeomar. [Magical Physiologies: Brackish Trudge Field Trip (Levels 1-2)](https://www.docdroid.net/19joHfG/mpft-sedgemoor-shaeomar-v02-pdf).
