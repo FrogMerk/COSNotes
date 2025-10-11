@@ -70,3 +70,24 @@ The Distinguished Society of Fine Artists often meets and holds discussions here
 This impressive stage is used for lectures, for assemblies, and as a gathering place in case of emergencies. Magic steps lead up to the stage from the floor of the library. Members of the Playactors Drama Guild often use this stage to meet and rehearse when the Rose Stage on Silverquill's campus is unavailable. If the characters pass by this area before or after orientation, Quentillius Antiphiun Melentor III (neutral human [[First-Year Student]]; see the "Fellow Students" section) is here recruiting new students to the Playactors Drama Guild.
 
 ### B14. Student Activities Center
+This room is filled with tables and chairs and is available to any student organization registered with Strixhaven for use as a meeting place, rehearsal facility, or crafting site, or for other approved purposes.
+
+If the characters explore this area before or after orientation, it is set up to promote Extracurriculars, the rules of which appear earlier in the chapter. The tables are covered with flyers from the Dead Languages Society, the Dragonchess Club, the Dragonsguard Historical Society, Future Entrepreneurs of Strixhaven, the Intramural Gymnastics Club, the Intramural Silkball Club, the Intramural Water-Dancing Club, the Mage Tower Cheer Squad, the Strixhaven Iron-Lifters Society, the Strixhaven Show Band Association, the Strixhaven Star, and Student-Mages of Faith, and are staffed by the students listed in "Extracurriculars" as being associated with them.
+
+Extracurricular groups not here can be found elsewhere in the Biblioplex, along with their student NPCs—the Live-Action Roleplaying Guild (area B8), the Fantastical Horticulture Club (area B9), the Distinguished Society of Fine Artists (area B12), and the Playactors Drama Guild (area B13).
+### B15. Student Council Hall
+Filled with wooden tables and benches, this room has a flag displaying the Strixhaven star symbol hanging on its back wall. Here, a student council publicly debates Strixhaven policies that most affect the student body. The leaders of the school's Extracurriculars come to the council to conduct matters of business, and the council usually meets on the first day of every month. Outside those meeting days, the room is used for other official university business or stands empty.
+### B16. Advanced Student Stacks
+Rooms on the Biblioplex's second floor can be accessed only with keys held by faculty members, or that the reference librarians in area B4 grant students on a case-by-case basis. Typically, students don't receive keys to these stacks until they're studying for their final thesis during their fourth year at Strixhaven. The arcane knowledge in the books here is not public—and is sometimes dangerous.
+
+To prevent overly ambitious mages and Strixhaven's enemies from teleporting into and accessing this area, two shield guardians patrol at all times. Both the guardians have sleep as their stored spell, and their control amulets are in the possession of two of the librarians on duty in the Biblioplex. Students with permission to work here are given passwords by which the Constructs recognize them as friends.
+### B17. Advanced Student Office
+These private offices are for students working on their theses, accessed using the same keys that allow access to area B16.
+### B18. Advanced Student Lounge
+This rest area is designed to help stressed-out senior students unwind. Large tables are set up for gaming and shelves are filled with recreational reading material. The area can be accessed only through the advanced student stacks (area B17).
+### B19. The Compendium
+This area on the library's third floor holds copies of most of the mundane, widely available written works in the multiverse. The books are inscrutably cataloged, so it's almost impossible to find anything without requesting information from a reference librarian (area B4). Characters who look for information without obtaining help discover what they're looking for only with a successful DC 20 Wisdom (Perception) check.
+
+At the center of this area stands a statue depicting a mighty, benevolent dragon. The magical statue reads aloud the contents of most books placed in front of it if a character makes that request verbally or mentally. (The magic of the statue can assess text such as verbal curses that present a danger if read aloud, and the statue ignores requests to read such text.)
+
+![[Biblioplex Imp.png]]
