@@ -22,7 +22,7 @@ The [[Acceptance letter]] provided to players before the campaign begins.
 With the characters arrive at the Dawnbow, read or paraphrase the following:
 
 ```ad-important
-**The Dawnbow** is a breathtaking celestial arc of floating, prism-veined stone that hangs like a constellation frozen in midair above the Biblioplex — the beating heart of Strixhaven’s magical knowledge. Shaped like a many-pointed star torn from the firmament, its stones glow faintly with shifting hues, refracting the ambient magic of Arcavios like sunlight through enchanted crystal.
+**The Dawnbow** is a breathtaking arc of floating, opalescent-veined stones that hang frozen in midair above the Biblioplex — the beating heart of Strixhaven’s magical knowledge. Shaped like a many-pointed star torn from the firmament, its stones glow faintly with shifting hues, refracting the ambient magic of Arcavios like sunlight through enchanted crystal.
 
 Suspended effortlessly in the sky, the Dawnbow hums with ancient power, resonating with the ebb and flow of spells cast across the university. It is not merely a monument — it is a compass of arcane convergence, its form subtly changing at dawn and dusk, reflecting the balance between theory and practice, past and future, chaos and order.
 
