@@ -33,7 +33,7 @@ Students and scholars alike look to it for inspiration, tradition, and sometimes
 
 The air hums with energy. Sparks of wild, uncontained magic dance across the fingertips of students practicing cantrips between study sessions, while scholarly debates erupt over obscure theories of spellcraft, punctuated by flashes of light and laughter.
 
-Quiet corners of this grand 
+In quiet corners of the library, students enjoy the delights 
 
 Despite its grandeur, the Biblioplex never feels cold or impersonal. There's a warmth that radiates from the pursuit of knowledge itself — a palpable, infectious drive shared by hundreds of young minds from every corner of Arcavios and beyond. Every hallway, every hidden study nook, every whispering alcove feels like it holds a secret waiting to be discovered.
 
