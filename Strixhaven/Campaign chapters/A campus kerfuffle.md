@@ -29,9 +29,11 @@ Students and scholars alike look to it for inspiration, tradition, and sometimes
 
 
 ```ad-important
-**The Biblioplex** is the crown jewel of Strixhaven University — a vast, awe-inspiring library where magic and intellect entwine in endless pursuit of truth. Towering marble archways, etched with glowing runes and trimmed with gilded ivy, stretch high into vaulted ceilings that shimmer faintly with starlight, regardless of the hour. Beneath them, tomes are stacked for what seems like miles — from ancient leather-bound grimoires to sleek, floating tablets of pure arcane data — all cataloged by sentient scrolls and drifting lights that whisper softly through the stacks.
+**The Biblioplex** is the crown jewel of Strixhaven University, a vast, awe-inspiring library where magic and intellect entwine in endless pursuit of truth. Towering marble archways are etched with glowing runes and trimmed with gilded ivy, and stretch high into vaulted ceilings that shimmer faintly with starlight, regardless of the hour. 
 
-The air hums with energy. Sparks of wild, uncontained magic dance across the fingertips of students practicing cantrips between study sessions, while scholarly debates erupt over obscure theories of spellcraft, punctuated by flashes of light and laughter. The chatter of dozens of languages — both spoken and written — mingles with the flutter of pages turning themselves, the soft thud of levitating books returning to their shelves, and the occasional, authoritative _ahem_ from one of the resident professors or enchanted custodians.
+The air hums with energy. Sparks of wild, uncontained magic dance across the fingertips of students practicing cantrips between study sessions, while scholarly debates erupt over obscure theories of spellcraft, punctuated by flashes of light and laughter.
+
+Quiet corners of this grand 
 
 Despite its grandeur, the Biblioplex never feels cold or impersonal. There's a warmth that radiates from the pursuit of knowledge itself — a palpable, infectious drive shared by hundreds of young minds from every corner of Arcavios and beyond. Every hallway, every hidden study nook, every whispering alcove feels like it holds a secret waiting to be discovered.
 
