@@ -22,15 +22,21 @@ The [[Acceptance letter]] provided to players before the campaign begins.
 With the characters arrive at the Dawnbow, read or paraphrase the following:
 
 ```ad-important
-**The Dawnbow** is a breathtaking arc of floating, opalescent-veined stones that hang frozen in midair above the Biblioplex — the beating heart of Strixhaven’s magical knowledge. Shaped like a many-pointed star torn from the firmament, its stones glow faintly with shifting hues, refracting the ambient magic of Arcavios like sunlight through enchanted crystal.
-
-Suspended effortlessly in the sky, the Dawnbow hums with ancient power, resonating with the ebb and flow of spells cast across the university. It is not merely a monument — it is a compass of arcane convergence, its form subtly changing at dawn and dusk, reflecting the balance between theory and practice, past and future, chaos and order.
+**The Dawnbow** is a breathtaking arc of floating, opalescent-veined stones that hang frozen in midair above the Biblioplex - the beating heart of Strixhaven’s magical knowledge. Its stones glow vibrantly with shifting hues, refracting the ambient magic of the planes. Students often gather to watch the light of the setting sun dance across the Dawnbow, said to be one of the most beautiful sights in all of Arcavios.
 
 Students and scholars alike look to it for inspiration, tradition, and sometimes, omens. Some say it was formed at the founding of Strixhaven by the first convergence of the five colleges’ magic, others claim it predates even the dragons themselves. Regardless of its origin, the Dawnbow is a radiant sigil in the skies of Arcavios — a symbol of limitless possibility and the pursuit of knowledge without end.
 ```
 
 
 ```ad-important
-Majestic marble archways, tomes seemingly stacked for miles, and the infectious energy of hundreds of young adults fill the Biblioplex, the grand library at the heart of Strixhaven University. The sights, sounds, and sparks of magic in the air are wondrous.
+**The Biblioplex** is the crown jewel of Strixhaven University — a vast, awe-inspiring library where magic and intellect entwine in endless pursuit of truth. Towering marble archways, etched with glowing runes and trimmed with gilded ivy, stretch high into vaulted ceilings that shimmer faintly with starlight, regardless of the hour. Beneath them, tomes are stacked for what seems like miles — from ancient leather-bound grimoires to sleek, floating tablets of pure arcane data — all cataloged by sentient scrolls and drifting lights that whisper softly through the stacks.
+
+The air hums with energy. Sparks of wild, uncontained magic dance across the fingertips of students practicing cantrips between study sessions, while scholarly debates erupt over obscure theories of spellcraft, punctuated by flashes of light and laughter. The chatter of dozens of languages — both spoken and written — mingles with the flutter of pages turning themselves, the soft thud of levitating books returning to their shelves, and the occasional, authoritative _ahem_ from one of the resident professors or enchanted custodians.
+
+Despite its grandeur, the Biblioplex never feels cold or impersonal. There's a warmth that radiates from the pursuit of knowledge itself — a palpable, infectious drive shared by hundreds of young minds from every corner of Arcavios and beyond. Every hallway, every hidden study nook, every whispering alcove feels like it holds a secret waiting to be discovered.
+
+Above it all, the Dawnbow hovers — silent, luminous, ever-present — casting shifting light through the stained-glass oculi in the ceiling, bathing the interior in ethereal hues as if the very sky is reading along.
+
+To walk into the Biblioplex is to step into a living spell — a place where curiosity bends reality, and where learning is not just revered, but alive.
 ```
 
