@@ -17,12 +17,13 @@ We will not be running the recommended additional mechanics for monitoring Jobs,
 
 
 # Orientation
-The [[Acceptance letter]] provided to players before the campaign begins
-With the characters arrive at the Biblioplex, read or paraphrase the following:
+The [[Acceptance letter]] provided to players before the campaign begins.
 
-```
+With the characters arrive at the Dawnbow, read or paraphrase the following:
+
+The Dawnbow is a massive, star-shaped arch of floating stones that hovers above the Biblioplex, the main library of Strixhaven. It serves as a prominent landmark, marking the center of magical learning and can be seen from many locations on the plane of Arcavios.
+
+
 Majestic marble archways, tomes seemingly stacked for miles, and the infectious energy of hundreds of young adults fill the Biblioplex, the grand library at the heart of Strixhaven University. The sights, sounds, and sparks of magic in the air are wondrous.
 
-Your acceptance letter stated that you must report to the Biblioplex's Hall of Oracles to receive instructions on new-student orientation. The hall sits at the center of the Biblioplex's first floor, and you can already see students gathering there.
-```
 
