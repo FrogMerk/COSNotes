@@ -17,8 +17,7 @@ We will not be running the recommended additional mechanics for monitoring Jobs,
 
 
 # Orientation
-
-
+Acceptance letters provided to 
 With the characters arrive at the Biblioplex, read or paraphrase the following:
 
 ```
