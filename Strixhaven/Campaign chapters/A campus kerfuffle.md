@@ -21,9 +21,16 @@ The [[Acceptance letter]] provided to players before the campaign begins.
 
 With the characters arrive at the Dawnbow, read or paraphrase the following:
 
-The Dawnbow is a massive, star-shaped arch of floating stones that hovers above the Biblioplex, the main library of Strixhaven. It serves as a prominent landmark, marking the center of magical learning and can be seen from many locations on the plane of Arcavios.
+```ad-important
+**The Dawnbow** is a breathtaking celestial arc of floating, prism-veined stone that hangs like a constellation frozen in midair above the Biblioplex — the beating heart of Strixhaven’s magical knowledge. Shaped like a many-pointed star torn from the firmament, its stones glow faintly with shifting hues, refracting the ambient magic of Arcavios like sunlight through enchanted crystal.
+
+Suspended effortlessly in the sky, the Dawnbow hums with ancient power, resonating with the ebb and flow of spells cast across the university. It is not merely a monument — it is a compass of arcane convergence, its form subtly changing at dawn and dusk, reflecting the balance between theory and practice, past and future, chaos and order.
+
+Students and scholars alike look to it for inspiration, tradition, and sometimes, omens. Some say it was formed at the founding of Strixhaven by the first convergence of the five colleges’ magic, others claim it predates even the dragons themselves. Regardless of its origin, the Dawnbow is a radiant sigil in the skies of Arcavios — a symbol of limitless possibility and the pursuit of knowledge without end.
+```
 
 
+```ad-important
 Majestic marble archways, tomes seemingly stacked for miles, and the infectious energy of hundreds of young adults fill the Biblioplex, the grand library at the heart of Strixhaven University. The sights, sounds, and sparks of magic in the air are wondrous.
-
+```
 
