@@ -73,8 +73,9 @@ Here are the clues:
 ### Clue 1
 You'll forget all about any trouble or plight when you step forward and are ensnarled in light.
 
-```ad-tip
-Hall of Oracles
+```ad-tip 
+title: Hall of Oracles 
+collapse: Open
 
 This clue refers the characters to the room they start the orientation in.
 
@@ -83,11 +84,25 @@ If a character touches the pooled energy below the snarl, they momentarily lose 
 
 ### Clue 2
 Alumni commission works when they retire, seeking promising mages to inspire.
-Student and alumni art gallery?
+
+```ad-tip
+title: Student and Alumni Art Gallery
+collapse: open
+
+This clue refers to the Student and Alumni Art Gallery.
+
+When the characters wander through the gallery, they see a portrait of several older alumni wearing Prismari College robes. If a character examines the portrait, they find a plaque that reads: "At Strixhaven we were all inspired." Below the plaque is a small lever. If a character uses an action to pull the lever, a box pops out of the wall containing a Strixhaven pennant for each character in the party. Once it dispenses the pennants, the box disappears back into the wall and doesn't work for the characters again.
+```
 
 ### Clue 3
 Each group deserves a free treat for their investment. Serve up this list and enjoy your refreshment.
-Cafe?
+
+```ad-tip
+title: Biblioplex Café 
+collapse: open
+
+
+```
 ### Clue 4
 These leafy beds aren't always what they seem. Give them a pat and see what you glean.
 Book Garden
