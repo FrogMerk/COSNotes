@@ -45,7 +45,7 @@ The players can then be introduced to one another as they make their way towards
 
 
 # Orientation Challenge
-The Orientation Challenge begins in the Hall of Oracles, within [[the Biblioplex]]. Read [[the Biblioplex]] introduction at this point.
+The Orientation Challenge begins in the Hall of Oracles, within [[the Biblioplex]]. Read [[the Biblioplex]] introduction at this point. Explain each area of the Biblioplex from the locations page at this point to give the players an idea of what rooms are around the building. Provide the [[Biblioplex Map]] handout so they can annotate it.
 
 When the characters enter the Hall of Oracles to begin orientation, read or paraphrase the following:
 
@@ -76,15 +76,16 @@ Hall of oracles light?
 
 ### Clue 2
 Alumni commission works when they retire, seeking promising mages to inspire.
-
+Student and alumni art gallery?
 
 ### Clue 3
 Each group deserves a free treat for their investment. Serve up this list and enjoy your refreshment.
-
+Cafe?
 ### Clue 4
 These leafy beds aren't always what they seem. Give them a pat and see what you glean.
+Book Garden
 
 ### Clue 5
 Some stars are ancient, enduring, and bright. But others—maybe you!—are born on opening night.
-
+Ampitheatre
 
