@@ -19,16 +19,16 @@ We will not be running the recommended additional mechanics for monitoring Jobs,
 # Orientation
 The [[Acceptance letter]] provided to players before the campaign begins.
 
-The characters arrive at [[the Dawnbow]], and are introduced to the university by a highly enthusiastic 2nd year student who is quickly ushered away by a Rather Stern and serious looking [[Augusta Tullus]] (lawful neutral human [[Lorehold professor of order]]). If the party choose to roll a perception (DC 15) or Insight (DC15) check they will notice that the professor seems agitated and lacking sleep.
+The characters arrive at [[the Dawnbow]], and are introduced to the university by a highly enthusiastic 2nd year student who is quickly ushered away by a Rather Stern and serious looking [[Augusta Tullus]] (lawful neutral human [[Lorehold professor of order]]). If the party choose to roll a perception (DC 15) or Insight (DC15) check they will notice that the professor seems agitated and lacking sleep, her appearance not quite matching the tone of her speech.
 
 Professor Tullus steps forward to speak, deliver the following:
 
 ```ad-quote
 Professor Augusta Tullus steps onto the shimmering stone dais at the heart of Central Campus, the radiant arcs of the Dawnbow gleaming overhead in a thousand shifting hues. She gazes out at the gathered students with sharp eyes, her face betraying no sense of emotion.
 
-"Welcome, first-years… to Strixhaven University. Look around you. Take in the soaring towers, the whispering trees, the spells that hang in the very air you breathe, the  carry the history of this institution. Here, you will be tested, transformed, and, if you rise to the challenge, truly awakened.
+"Welcome, first-years… to Strixhaven University. Look around you. Take in the soaring towers, the whispering trees, the spells that hang in the very air you breathe. Take your time to walk the Halls, the Gardens, the Streets, explore each small corner that holds within it the _history_ of this institution. Here, you will be tested, transformed, and, if you rise to the challenge, truly awakened.
 
-Beneath the Dawnbow—this ancient arc of woven light—you stand where countless great minds once stood, uncertain but unafraid. You may arrive as students of different colleges—Silverquill, Prismari, Witherbloom, Lorehold, Quandrix—but you are all bound by one thing: the pursuit of knowledge that _matters_.
+Beneath the Dawnbow, this ancient arc of woven light, you stand where countless great minds once stood, uncertain but unafraid. You may arrive as students of different colleges—Silverquill, Prismari, Witherbloom, Lorehold, Quandrix—but you are all bound by one thing: the pursuit of knowledge that _matters_.
 
 Some of you will stumble. Some of you will soar. But _all_ of you are meant to be here.
 
