@@ -1,4 +1,4 @@
-- [ ] Create a second year student NPC (Think Hermione early on) under #orientation
+- [ ] Create a second year student NPC (Think Hermione early on) under [Introduction]
 --- 
 Begins at level 1, with characters progressing based on the milestones listed below:
 
@@ -41,3 +41,6 @@ Her face relaxes again.
 After stepping away, {INSERTNAME} rushes back to the podium and excitedly informs those in attendance that there will be an Orientation Challenge taking place in the Biblioplex shortly
 
 The players can then be introduced to one another as they make their way towards the Biblioplex.
+
+
+# Orientation Challenge
