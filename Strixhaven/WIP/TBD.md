@@ -1,6 +1,7 @@
 Unlinked mentions are the TBD list
 
 ```dataview
-LIST
-
+TABLE file.links AS "Link"
+FROM 'Strixhaven
+WHERE 
 ```
