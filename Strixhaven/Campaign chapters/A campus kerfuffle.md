@@ -38,4 +38,5 @@ Her face relaxes again.
 
 ```
 
-After stepping away, {INSERTNAME} rushes back to the podium anf
+After stepping away, {INSERTNAME} rushes back to the podium and excitedly informs those in attendance that there will be an Orientation Challenge taking place in the library shortly
+
