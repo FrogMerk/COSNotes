@@ -72,7 +72,14 @@ Here are the clues:
 
 ### Clue 1
 You'll forget all about any trouble or plight when you step forward and are ensnarled in light.
-Hall of oracles light?
+
+```ad-tip
+Hall of Oracles
+
+This clue refers the characters to the room they start the orientation in.
+
+If a character touches the pooled energy below the snarl, they momentarily lose track of their body, overwhelmed by the snarl's magical power. The character automatically disengages from the snarl and discovers that they are holding a potion of healing.
+```
 
 ### Clue 2
 Alumni commission works when they retire, seeking promising mages to inspire.
