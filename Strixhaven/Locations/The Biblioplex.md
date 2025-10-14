@@ -1,4 +1,20 @@
-The center of Strixhaven is the Biblioplex, the university's main library. At the heart of the library is a snarl, a tangle in the fabric of magic, that glows like a miniature sun in the grand Hall of Oracles. A star arch called the Dawnbow curves across the sky above the library, marking its location as a center of mystic learning.
+```ad-important
+**The Biblioplex** is the crown jewel of Strixhaven University, a vast, awe-inspiring library where magic and intellect entwine in endless pursuit of truth. Towering marble archways are etched with glowing runes and trimmed with gilded ivy, and stretch high into vaulted ceilings that shimmer faintly with starlight, regardless of the hour. 
+
+The air hums with energy. Sparks of wild, uncontained magic dance across the fingertips of students practicing cantrips between study sessions, while scholarly debates erupt over obscure theories of spellcraft, punctuated by flashes of light and laughter.
+
+In quiet corners of the library students study tirelessly, energised by sweet treats and caffeinated beverages, courtesy of the Firejolt Café.
+
+
+
+Despite its grandeur, the Biblioplex never feels cold or impersonal. There's a warmth that radiates from the pursuit of knowledge itself — a palpable, infectious drive shared by hundreds of young minds from every corner of Arcavios and beyond. Every hallway, every hidden study nook, every whispering alcove feels like it holds a secret waiting to be discovered.
+
+Above it all, the Dawnbow hovers — silent, luminous, ever-present — casting shifting light through the stained-glass oculi in the ceiling, bathing the interior in ethereal hues as if the very sky is reading along.
+
+To walk into the Biblioplex is to step into a living spell — a place where curiosity bends reality, and where learning is not just revered, but alive.
+```
+
+The center of Strixhaven is the Biblioplex, the university's main library. At the heart of the library is a snarl, a tangle in the fabric of magic, that glows like a miniature sun in the grand Hall of Oracles. A star arch called [[the Dawnbow]] curves across the sky above the library, marking its location as a center of mystic learning.
 
 Arches welcome inquisitive minds into the library. Inside, almost every surface from the floor to the high ceiling is jammed with stacks of books. The interior of the Biblioplex is vast, with long hallways, archive chambers tall enough to have their own weather, and even pools and moat-passages crossable only by boat.
 
