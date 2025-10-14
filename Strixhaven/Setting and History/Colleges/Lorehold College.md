@@ -1,4 +1,4 @@
-Lorehold is the College of Archaeomancy—a term that describes the exploration of ancient things through magic. Its mages explore the past by poring over archaeological sites, calling forth magical energy from old tomes, and summoning the spirits of long-dead historical figures. Lorehold mages travel far and wide across the world, gathering relics of bygone ages and learning dead languages to unpack the secrets of history.
+CLorehold is the College of Archaeomancy—a term that describes the exploration of ancient things through magic. Its mages explore the past by poring over archaeological sites, calling forth magical energy from old tomes, and summoning the spirits of long-dead historical figures. Lorehold mages travel far and wide across the world, gathering relics of bygone ages and learning dead languages to unpack the secrets of history.
 
 ![[LoreholdSigil.png]]
 
