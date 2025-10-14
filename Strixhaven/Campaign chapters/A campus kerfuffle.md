@@ -16,7 +16,7 @@ Unknown to anyone on campus, Sedgemoor's waters were recently corrupted by the f
 We will not be running the recommended additional mechanics for monitoring Jobs, Extracurriculars, Friends, Rivals and Exams. Instead, a selection of custom made characters will be available to run into as the party go about their lives on campus.  Additionally any academic element to this campaign is considered background, and these optional mechanics will only serve to slow down play. Unless given a good reason, exams and study will be considered done in the background and will be described as a tool to connote the passage of time.
 
 
-# Orientation
+# Introduction
 The [[Acceptance letter]] provided to players before the campaign begins.
 
 The characters arrive at [[the Dawnbow]], and are introduced to the university by {INSERTNAME}, a highly enthusiastic 2nd year student who is quickly ushered away by a Rather Stern and serious looking [[Augusta Tullus]] (lawful neutral human [[Lorehold professor of order]]). If the party choose to roll a perception (DC 15) or Insight (DC15) check they will notice that the professor seems agitated and lacking sleep, her appearance not quite matching the tone of her speech.
@@ -38,5 +38,6 @@ Her face relaxes again.
 
 ```
 
-After stepping away, {INSERTNAME} rushes back to the podium and excitedly informs those in attendance that there will be an Orientation Challenge taking place in the library shortly
+After stepping away, {INSERTNAME} rushes back to the podium and excitedly informs those in attendance that there will be an Orientation Challenge taking place in the Biblioplex shortly
 
+The players can then be introduced to one another as they make their way towards the Biblioplex.
