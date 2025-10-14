@@ -24,5 +24,14 @@ The characters arrive at [[the Dawnbow]], and are introduced to the university b
 Professor Tullus steps forward to speak, deliver the following:
 
 ```ad-quote
-Professor Augusta Tullus steps onto the shimmering stone dais at the heart of Central Campus, the radiant arcs of the Dawnbow gleaming overhead in a thousand shifting hues. She gazes out at the gathered students with sharp eyes and a faint, knowing smile.
+Professor Augusta Tullus steps onto the shimmering stone dais at the heart of Central Campus, the radiant arcs of the Dawnbow gleaming overhead in a thousand shifting hues. She gazes out at the gathered students with sharp eyes, her face betraying no sense of emotion.
+
+"Welcome, first-years… to Strixhaven University. Look around you. Take in the soaring towers, the whispering trees, the spells that hang in the very air you breathe, the  carry the history of this institution. Here, you will be tested, transformed, and, if you rise to the challenge, truly awakened.
+
+Beneath the Dawnbow—this ancient arc of woven light—you stand where countless great minds once stood, uncertain but unafraid. You may arrive as students of different colleges—Silverquill, Prismari, Witherbloom, Lorehold, Quandrix—but you are all bound by one thing: the pursuit of knowledge that _matters_.
+
+Some of you will stumble. Some of you will soar. But _all_ of you are meant to be here.
+
+So, take your place. Ask dangerous questions. Cast impossible spells. And never, _ever_ forget: Strixhaven is watching."
+
 ```

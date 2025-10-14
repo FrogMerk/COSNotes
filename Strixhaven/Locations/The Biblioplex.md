@@ -1,4 +1,4 @@
-```ad-important
+```ad-quote
 **The Biblioplex** is the crown jewel of Strixhaven University, a vast, awe-inspiring library where magic and intellect entwine in endless pursuit of truth. Towering marble archways are etched with glowing runes and trimmed with gilded ivy, and stretch high into vaulted ceilings that shimmer faintly with starlight, regardless of the hour. 
 
 The air hums with energy. Sparks of wild, uncontained magic dance across the fingertips of students practicing cantrips between study sessions, while scholarly debates erupt over obscure theories of spellcraft, punctuated by flashes of light and laughter.
