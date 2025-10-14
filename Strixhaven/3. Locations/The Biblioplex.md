@@ -14,7 +14,7 @@ Above it all, the Dawnbow hovers — silent, luminous, ever-present — casting 
 To walk into the Biblioplex is to step into a living spell — a place where curiosity bends reality, and where learning is not just revered, but alive.
 ```
 
-The center of Strixhaven is the Biblioplex, the university's main library. At the heart of the library is a snarl, a tangle in the fabric of magic, that glows like a miniature sun in the grand Hall of Oracles. A star arch called [[the Dawnbow]] curves across the sky above the library, marking its location as a center of mystic learning.
+The center of Strixhaven is the Biblioplex, the university's main library. At the heart of the library is a snarl, a tangle in the fabric of magic, that glows like a miniature sun in the grand Hall of Oracles. A star arch called [[The Dawnbow]] curves across the sky above the library, marking its location as a center of mystic learning.
 
 Arches welcome inquisitive minds into the library. Inside, almost every surface from the floor to the high ceiling is jammed with stacks of books. The interior of the Biblioplex is vast, with long hallways, archive chambers tall enough to have their own weather, and even pools and moat-passages crossable only by boat.
 
@@ -30,7 +30,7 @@ The following locations are keyed to map 3.1. All descriptions assume the charac
 ### B1. Main Entrance
 Enchanted marble steps lead up 5 feet to a small plaza at the Biblioplex's entrance. The double door's vertical handles are each carved in the likeness of a robed scholar. During the day, the doors stand open. At night, the doors are closed, locked, and sealed with an arcane lock spell. A successful DC 25 Dexterity check using thieves' tools opens the lock (DC 35 while the arcane lock is in effect). Only the Biblioplex's reference librarians and certain faculty members know the arcane lock's password.
 ### B2. Biblioplex Lounge
-Luxurious couches and sturdy tables furnish this spacious area. Students, employees, and staff members often use this lounge to relax between shifts in the [[student store]] (area B5), the Biblioplex café (area B6), or elsewhere in the library. Each table holds piles of magazines, newsletters, flyers, and nonmagical scrolls from around campus. A character who examines these materials finds recruitment flyers from 1d3 Extracurriculars. They also find "Help Wanted" ads for the Jobs at the Biblioplex. Extracurriculars and Jobs are detailed earlier in the chapter.
+Luxurious couches and sturdy tables furnish this spacious area. Students, employees, and staff members often use this lounge to relax between shifts in the [[Student Store]] (area B5), the Biblioplex café (area B6), or elsewhere in the library. Each table holds piles of magazines, newsletters, flyers, and nonmagical scrolls from around campus. A character who examines these materials finds recruitment flyers from 1d3 Extracurriculars. They also find "Help Wanted" ads for the Jobs at the Biblioplex. Extracurriculars and Jobs are detailed earlier in the chapter.
 ### B3. Student Café Seating
 This area typically holds 21 (6d6) students, all of them studying, eating, chatting, or even sleeping. Many enjoy food and drinks from the café (area B6).
 ### B4. Information Desk
@@ -40,7 +40,7 @@ This small shop is stocked with books, equipment, and gear useful as academic su
 
 Once a character chooses a college at the start of second year, they receive a set of college robes, a knit hat, a scarf, a tunic, and gloves free of charge. (This set normally costs 5 gp.)
 
-In addition to nonmagical gear and clothing, the [[student store]] also contains the magic items from the "Magic Items" section of chapter 2.
+In addition to nonmagical gear and clothing, the [[Student Store]] also contains the magic items from the "Magic Items" section of chapter 2.
 ### B6. Biblioplex Café
 One wall of this area is covered with a mural made from a living tree's roots, which move occasionally and make the entire place feel alive. The ceiling is covered in painted leaves, which change colors depending on the season thanks to a permanent illusion effect. The magic also prompts painted squirrels to run up and down the mural's roots, and painted birds to chirp among the leaves.
 

@@ -84,7 +84,7 @@ Upon retiring, a professor receives the title of mage emeritus. Mages emeriti ar
 
 Students at Strixhaven spend their first year in a course of general studies, which lays the foundation for the more specialised work to follow. During this year, they wear a uniform of black, white, and gray. They're encouraged to study broadly so that they become acquainted with a wide range of disciplines.
 
-First-year students live in dormitories located on the [[central campus]] and often form close friendships there that last throughout their educational careers, even when members of tight-knit groups of friends join different colleges in their second year. A few students continue to live on [[central campus]] after choosing a college, particularly if they pursue extensive studies in multiple colleges or work as resident advisers to first-year students. But most students move to dormitories located on their chosen college's campus in their second year.
+First-year students live in dormitories located on the [[Central Campus]] and often form close friendships there that last throughout their educational careers, even when members of tight-knit groups of friends join different colleges in their second year. A few students continue to live on [[Central Campus]] after choosing a college, particularly if they pursue extensive studies in multiple colleges or work as resident advisers to first-year students. But most students move to dormitories located on their chosen college's campus in their second year.
 
 ### Choosing a College
 
@@ -112,10 +112,10 @@ When the argumentative deans fail to chart a coherent course for Strixhaven, the
 
 ## Campus Overview
 
-Strixhaven occupies hundreds of acres, spread out over six campuses. Each of the university's five colleges has its own campus, and the [[central campus]], home to [[the Biblioplex]] and Strixhaven Stadium, serves as a hub for university life.
+Strixhaven occupies hundreds of acres, spread out over six campuses. Each of the university's five colleges has its own campus, and the [[Central Campus]], home to [[The Biblioplex]] and Strixhaven Stadium, serves as a hub for university life.
 
-Well-maintained roads connect the six campuses and walking from one to another can take a half-hour or more. Regular shuttles—large carriages drawn by horse-like automata—run on an hourly schedule between a station near [[the Biblioplex]] and each of the satellite campuses, making the journey in about 15 minutes. In addition, each campus has multiple permanent teleportation circles, which faculty and more advanced students can use when they require instantaneous travel, and several magical portals exist as well. These portals can be unpredictable: they aren't necessarily open all the time, they don't always lead to the same places, and some require complicated conditions or keys to open.
+Well-maintained roads connect the six campuses and walking from one to another can take a half-hour or more. Regular shuttles—large carriages drawn by horse-like automata—run on an hourly schedule between a station near [[The Biblioplex]] and each of the satellite campuses, making the journey in about 15 minutes. In addition, each campus has multiple permanent teleportation circles, which faculty and more advanced students can use when they require instantaneous travel, and several magical portals exist as well. These portals can be unpredictable: they aren't necessarily open all the time, they don't always lead to the same places, and some require complicated conditions or keys to open.
 
 ![[CentralCampus.png]]
 
-_Archway commons, a Favourite gathering spot of students, located in the [[central campus]] district near [[the Biblioplex]]_
+_Archway commons, a Favourite gathering spot of students, located in the [[Central Campus]] district near [[The Biblioplex]]_

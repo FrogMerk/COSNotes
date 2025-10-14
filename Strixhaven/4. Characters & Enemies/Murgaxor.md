@@ -15,6 +15,6 @@ On initiative count 20 (losing initiative ties), Murgaxor can take one of the fo
 - Necrotic Burst. Tendrils of necrotic energy erupt from the ritual circle and lash out at any number of creatures Murgaxor can see within 15 feet of the circle. Each target must succeed on a DC 15 Dexterity saving throw, or it takes 5 (1d10) necrotic damage and can't regain hit points until the start of its next turn.
     
 - Summon Mephits. Murgaxor summons four mud mephits that appear in unoccupied spaces within 15 feet of the ritual circle. The mephits obey Murgaxor's commands, take their turns on initiative count 15 (losing initiative ties), and fight until destroyed.
-![[dnd_notes/Strixhaven/Assets/Characters/Art/Murgaxor.png]]
+![[Murgaxor.png]]
 
 ![[MurgaxorStat.png]]

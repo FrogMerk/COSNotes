@@ -14,15 +14,12 @@ Begins at level 1, with characters progressing based on the milestones listed be
 The strange happenings on campus in this adventure are caused by a corrupted substance known as eldritch balm. Used at Strixhaven for decades, eldritch balm is an alchemical salve made from the sludgy, acidic waters of Sedgemoor, the bayou that encompasses the Witherbloom College campus. Once these waters undergo an alchemical process in Witherbloom's faculty laboratories, the resulting eldritch balm is used to magically treat and strengthen objects, from storage trunks to cooking vats to stage props and more. The balm's effects differ depending on the objects treated, but it typically provides resistance to certain types of damage or other protections useful on a campus where magic often goes awry.
 
 Unknown to anyone on campus, Sedgemoor's waters were recently corrupted by the foul magic practiced by [[Murgaxor]] Grenshel, the villain the characters ultimately confront in chapter 6. [[Murgaxor]] intended the eldritch balm to be affected by his sinister experiments and hoped the resulting chaos would disrupt life at Strixhaven.
-
 ## Changes to recommended play
-We will not be running the recommended additional mechanics for monitoring Jobs, Extracurriculars, Friends, Rivals and Exams. Instead, a selection of custom made characters will be available to run into as the party go about their lives on campus.  Additionally any academic element to this campaign is considered background, and these optional mechanics will only serve to slow down play. Unless given a good reason, exams and study will be considered done in the background and will be described as a tool to connote the passage of time.
-
-
+We will not be running the recommended additional mechanics for monitoring Jobs, Extracurriculars, Friends, Rivals and Exams. Instead, a selection of custom characters will be available to run into as the party go about their lives on campus.  Additionally any academic element to this campaign is considered background, and these optional mechanics will only serve to slow down play. Unless given a good reason, exams and study will be considered completed in the background and will be described as a tool to connote the passage of time. If the players wish to conduct any roleplay around this, I'm happy to integrate some elements.
 # Introduction
-The [[Acceptance letter]] provided to players before the campaign begins.
+The [[Acceptance Letter]] provided to players before the campaign begins.
 
-The characters arrive at [[the Dawnbow]], and are introduced to the university by {INSERTNAME}, a highly enthusiastic 2nd year student who is quickly ushered away by a Rather Stern and serious looking [[Augusta Tullus]] (lawful neutral human [[Lorehold professor of order]]). If the party choose to roll a perception (DC 15) or Insight (DC15) check they will notice that the professor seems agitated and lacking sleep, her appearance not quite matching the tone of her speech.
+The characters arrive at [[The Dawnbow]], and are introduced to the university by {INSERTNAME}, a highly enthusiastic 2nd year student who is quickly ushered away by a Rather Stern and serious looking [[Augusta Tullus]] (lawful neutral human [[Lorehold professor of order]]). If the party choose to roll a perception (DC 15) or Insight (DC15) check they will notice that the professor seems agitated and lacking sleep, her appearance not quite matching the tone of her speech.
 
 Professor Tullus steps forward to speak, deliver the following:
 
@@ -41,13 +38,11 @@ Her face relaxes again.
 
 ```
 
-After stepping away, {INSERTNAME} rushes back to the podium and excitedly informs those in attendance that there will be a guided tour and Orientation Challenge taking place in [[the Biblioplex]] shortly
+After stepping away, {INSERTNAME} rushes back to the podium and excitedly informs those in attendance that there will be a guided tour and Orientation Challenge taking place in [[The Biblioplex]] shortly
 
-The players can then be introduced to one another as they make their way towards [[the Biblioplex]].
-
-
+The players can then be introduced to one another as they make their way towards [[The Biblioplex]].
 # Orientation Challenge
-The Orientation Challenge begins in the Hall of Oracles, within [[the Biblioplex]]. Read [[the Biblioplex]] introduction at this point. Explain each area of the Biblioplex from the locations page at this point to give the players an idea of what rooms are around the building. Provide the [[Biblioplex Map]] handout so they can annotate it.
+The Orientation Challenge begins in the Hall of Oracles, within [[The Biblioplex]]. Read [[The Biblioplex]] introduction at this point. Explain each area of the Biblioplex from the locations page at this point to give the players an idea of what rooms are around the building. Provide the [[Biblioplex Map]] handout so they can annotate it.
 
 When the characters enter the Hall of Oracles to begin orientation, read or paraphrase the following:
 
@@ -68,10 +63,9 @@ A small parchment materializes in front of the characters. It presents a list of
 ## Scavenger Hunt Clues
 A character can win a prize for each clue they solve but can receive only one item in each place. If a character tries to redo a clue to receive a second item, the magic that reveals the item doesn't work again. 
 
-Each clue can be unraveled either by deduction, or with a successful DC 10 Intelligence (Investigation) check. A decoded clue points the characters toward one of the areas of [[the Biblioplex]] as well as the action they must take to receive a prize in that area.
+Each clue can be unraveled either by deduction, or with a successful DC 10 Intelligence (Investigation) check. A decoded clue points the characters toward one of the areas of [[The Biblioplex]] as well as the action they must take to receive a prize in that area.
 
 Here are the clues:
-
 ### Clue 1
 You'll forget all about any trouble or plight when you step forward and are ensnarled in light.
 
@@ -83,7 +77,6 @@ This clue refers the characters to the room they start the orientation in.
 
 If a character touches the pooled energy below the snarl, they momentarily lose track of their body, overwhelmed by the snarl's magical power. The character automatically disengages from the snarl and discovers that they are holding a potion of healing.
 ```
-
 ### Clue 2
 Alumni commission works when they retire, seeking promising mages to inspire.
 
@@ -95,7 +88,6 @@ This clue refers to the Student and Alumni Art Gallery.
 
 When the characters wander through the gallery, they see a portrait of several older alumni wearing Prismari College robes. If a character examines the portrait, they find a plaque that reads: "At Strixhaven we were all inspired." Below the plaque is a small lever. If a character uses an action to pull the lever, a box pops out of the wall containing a Strixhaven pennant for each character in the party. Once it dispenses the pennants, the box disappears back into the wall and doesn't work for the characters again.
 ```
-
 ### Clue 3
 Each group deserves a free treat for their investment. Serve up this list and enjoy your refreshment.
 
@@ -121,7 +113,6 @@ This clue refers to the book gardens.
 When the characters enter a book garden, they see a lush arboretum. A successful DC 10 Intelligence (Investigation) check reveals that three of the shrubs are not ordinary greenery, but are instead [awakened shrubs](https://5e.tools/bestiary.html#awakened%20shrub_mm), each with a glistening crown of leaves. If a character uses an action to pat the shrubs on these leaves, the branches part to reveal a [cuddly Strixhaven mascot](https://5e.tools/items.html#cuddly%20strixhaven%20mascot_scc), representing a random mascot. This magic works only once per character.
 
 ```
-
 ### Clue 5
 Some stars are ancient, enduring, and bright. But others—maybe you!—are born on opening night.
 
@@ -134,3 +125,4 @@ This clue refers to the amphitheater.
 When the characters reach the amphitheater, they see an impressively lavish stage, with the curtains drawn back as if to reveal performers on the opening night of a major production. If a character recites, sings, hums, belches, or otherwise emits any line or tune while standing on the stage, bright floodlights snap on around the stage's perimeter—a number of lights equal to the number of characters in the group. Approaching any of the lights reveals a recess in which lies a [hooded lantern](https://5e.tools/items.html#hooded%20lantern_phb) filled with oil.
 ```
 
+## That Trunk Has Teeth!
