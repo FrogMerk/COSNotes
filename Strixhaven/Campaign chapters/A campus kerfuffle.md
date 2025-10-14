@@ -30,10 +30,11 @@ Professor Augusta Tullus steps onto the shimmering stone dais at the heart of Ce
 
 She pauses, her tone shifting slightly, a slight tension appearing on her face.
 
-"Beneath the Dawnbow, this ancient arc of woven light, you stand where countless great minds once stood, uncertain but unafraid. Many of you will stumble. Some will soar. Strixhaven rewards those that grasp greatness.
+"Beneath the Dawnbow, this ancient arc of woven light, you stand where countless great minds once stood, uncertain but unafraid. Many of you will stumble. Some will soar. Strixhaven rewards those that grasp greatness."
 
-Her face relaxes agai
+Her face relaxes again.
 
-So, take your place. Ask dangerous questions. Cast impossible spells. And never, _ever_ forget: Strixhaven is watching."
+"So, take your place. Ask dangerous questions. Cast impossible spells. And never, _ever_ forget: Strixhaven is watching."
 
 ```
+
