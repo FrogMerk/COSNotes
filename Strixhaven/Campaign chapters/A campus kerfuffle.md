@@ -1,4 +1,5 @@
 - [ ] Create a second year student NPC (Think Hermione early on) under [Introduction]
+- [ ] Make a handout for the Orientation Challenge scavenger hunt clues.
 --- 
 Begins at level 1, with characters progressing based on the milestones listed below:
 
@@ -44,3 +45,34 @@ The players can then be introduced to one another as they make their way towards
 
 
 # Orientation Challenge
+The Orientation Challenge begins in the Hall of Oracles, within the Biblioplex. Read the Biblioplex introduction at this point.
+
+When the characters enter the Hall of Oracles to begin orientation, read or paraphrase the following:
+
+```ad-quote
+An almost sacrosanct sense of calm descends as you step into the Hall of Oracles. "Brilliant scholars," says a rich, soothing voice radiating from the hall's central snarl of glowing energy. "Your attention, please.
+
+"As you are now Strixhaven University students, this storied Biblioplex will be your second home for research, studies, and even leisure. There is just one task to accomplish before you officially embark on your academic journey—a scavenger hunt!"
+```
+
+A small parchment materializes in front of the characters. It presents a list of clues.
+
+```ad-quote
+"The rules are simple," the voice says. "Each clue on this list will lead you to a different location in the Biblioplex. Simply travel to the area each clue references and perform the action the clue suggests. Time is of the essence. You have only until the end of the day to finish your hunt.
+
+"Solve as many clues as you can, because at each location, you may win a prize! Now then, off you go!"
+```
+
+## Scavenger Hunt Clues
+A character can win a prize for each clue they solve but can receive only one item in each place. If a character tries to redo a clue to receive a second item, the magic that reveals the item doesn't work again. Here are the clues:
+
+- Clue 1. You'll forget all about any trouble or plight when you step forward and are ensnarled in light.
+- Clue 2. Alumni commission works when they retire, seeking promising mages to inspire.
+- Clue 3. Each group deserves a free treat for their investment. Serve up this list and enjoy your refreshment.
+
+- Clue 4. These leafy beds aren't always what they seem. Give them a pat and see what you glean.
+    
+- Clue 5. Some stars are ancient, enduring, and bright. But others—maybe you!—are born on opening night.
+    
+
+Each clue can be unraveled either by deduction, or with a successful DC 10 Intelligence (Investigation) check. A decoded clue points the characters toward one of the areas of the Biblioplex as well as the action they must take to receive a prize in that area.
