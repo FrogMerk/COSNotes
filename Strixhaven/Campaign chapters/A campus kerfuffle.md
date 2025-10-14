@@ -19,7 +19,7 @@ We will not be running the recommended additional mechanics for monitoring Jobs,
 # Orientation
 The [[Acceptance letter]] provided to players before the campaign begins.
 
-The characters arrive at [[the Dawnbow]], and are introduced to the university by a highly enthusiastic 2nd year student who is quickly ushered away by a Rather Stern and serious looking [[Augusta Tullus]] (lawful neutral human [[Lorehold professor of order]]). If the party choose to roll a perception (DC 15) or Insight (DC15) check they will notice that the professor seems agitated and lacking sleep, her appearance not quite matching the tone of her speech.
+The characters arrive at [[the Dawnbow]], and are introduced to the university by {INSERTNAME}, a highly enthusiastic 2nd year student who is quickly ushered away by a Rather Stern and serious looking [[Augusta Tullus]] (lawful neutral human [[Lorehold professor of order]]). If the party choose to roll a perception (DC 15) or Insight (DC15) check they will notice that the professor seems agitated and lacking sleep, her appearance not quite matching the tone of her speech.
 
 Professor Tullus steps forward to speak, deliver the following:
 
@@ -38,3 +38,4 @@ Her face relaxes again.
 
 ```
 
+After stepping away, {INSERTNAME} rushes back to the podium anf
