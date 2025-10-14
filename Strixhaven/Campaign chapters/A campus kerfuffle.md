@@ -101,11 +101,19 @@ Each group deserves a free treat for their investment. Serve up this list and en
 title: Biblioplex Café 
 collapse: open
 
+This clue refers to the Biblioplex Café
 
+When the characters enter the café, they see several students enjoying drinks and snacks. Aisla Fitzbottom (chaotic good gnome commoner), the café manager, is a Strixhaven staff member and the only worker behind the counter at present. The characters must present their scavenger hunt list to Aisla. When they do, she tells them to come behind the counter and help her quickly restock the café's sandwiches and baked goods from several modified Heward's handy haversacks.
+
+If a character goes above and beyond in their assistance with a successful DC 15 Dexterity check, Aisla gives that character a random trinket (roll on [this list](https://5e.tools/book.html#scc,2,trinkets,0)). Many students have ignored her requests for help during the orientation, she says, so she decides to make an exception with a gift from her own pockets. Plus, she likes the new students' ambition.
 ```
 ### Clue 4
 These leafy beds aren't always what they seem. Give them a pat and see what you glean.
-Book Garden
+
+```ad-tip
+title: Book Garden
+collapse: 
+```
 
 ### Clue 5
 Some stars are ancient, enduring, and bright. But others—maybe you!—are born on opening night.
