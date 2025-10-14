@@ -1,3 +1,3 @@
-Squelching slightly as they wriggle through the air, inklings serve as the [[mascots]] for Silverquill College. These living blobs of shadowy ink are often summoned by professors who require assistance in their writing workshops—the inklings provide endless ink—or by lonely students hoping for company as they study. However, inklings can just as readily support mages in combat, disrupting opponents' sight.
+Squelching slightly as they wriggle through the air, inklings serve as the [[Mascots]] for Silverquill College. These living blobs of shadowy ink are often summoned by professors who require assistance in their writing workshops—the inklings provide endless ink—or by lonely students hoping for company as they study. However, inklings can just as readily support mages in combat, disrupting opponents' sight.
 ![[Inkling Mascot.png]]
 ![[Inkling MascotStat.png]]

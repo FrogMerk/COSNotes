@@ -1,6 +1,8 @@
 - [ ] Create a second year student NPC (Think Hermione early on) under [Introduction]
 - [ ] Make a handout for the Orientation Challenge scavenger hunt clues.
---- 
+- [ ] Review the rewards for the orientation challenge.
+----
+
 Begins at level 1, with characters progressing based on the milestones listed below:
 
 | Level | Reached When Characters...                                                      |
@@ -75,7 +77,7 @@ You'll forget all about any trouble or plight when you step forward and are ensn
 
 ```ad-tip 
 title: Hall of Oracles 
-collapse: Open
+collapse: closed
 
 This clue refers the characters to the room they start the orientation in.
 
@@ -87,7 +89,7 @@ Alumni commission works when they retire, seeking promising mages to inspire.
 
 ```ad-tip
 title: Student and Alumni Art Gallery
-collapse: open
+collapse: closed
 
 This clue refers to the Student and Alumni Art Gallery.
 
@@ -99,7 +101,7 @@ Each group deserves a free treat for their investment. Serve up this list and en
 
 ```ad-tip
 title: Biblioplex Café 
-collapse: open
+collapse: closed
 
 This clue refers to the Biblioplex Café
 
@@ -112,10 +114,23 @@ These leafy beds aren't always what they seem. Give them a pat and see what you 
 
 ```ad-tip
 title: Book Garden
-collapse: 
+collapse: closed
+
+This clue refers to the book gardens.
+
+When the characters enter a book garden, they see a lush arboretum. A successful DC 10 Intelligence (Investigation) check reveals that three of the shrubs are not ordinary greenery, but are instead [awakened shrubs](https://5e.tools/bestiary.html#awakened%20shrub_mm), each with a glistening crown of leaves. If a character uses an action to pat the shrubs on these leaves, the branches part to reveal a [cuddly Strixhaven mascot](https://5e.tools/items.html#cuddly%20strixhaven%20mascot_scc), representing a random mascot. This magic works only once per character.
+
 ```
 
 ### Clue 5
 Some stars are ancient, enduring, and bright. But others—maybe you!—are born on opening night.
-Ampitheatre
+
+```ad-tip
+title: Amphitheater
+collapse: closed
+
+This clue refers to the amphitheater.
+
+When the characters reach the amphitheater, they see an impressively lavish stage, with the curtains drawn back as if to reveal performers on the opening night of a major production. If a character recites, sings, hums, belches, or otherwise emits any line or tune while standing on the stage, bright floodlights snap on around the stage's perimeter—a number of lights equal to the number of characters in the group. Approaching any of the lights reveals a recess in which lies a [hooded lantern](https://5e.tools/items.html#hooded%20lantern_phb) filled with oil.
+```
 
