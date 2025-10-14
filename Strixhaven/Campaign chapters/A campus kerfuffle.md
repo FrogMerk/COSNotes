@@ -26,11 +26,13 @@ Professor Tullus steps forward to speak, deliver the following:
 ```ad-quote
 Professor Augusta Tullus steps onto the shimmering stone dais at the heart of Central Campus, the radiant arcs of the Dawnbow gleaming overhead in a thousand shifting hues. She gazes out at the gathered students with sharp eyes, her face betraying no sense of emotion.
 
-"Welcome, first-years… to Strixhaven University. Look around you. Take in the soaring towers, the whispering trees, the spells that hang in the very air you breathe. Take your time to walk the Halls, the Gardens, the Streets, explore each small corner that holds within it the _history_ of this institution. Here, you will be tested, transformed, and, if you rise to the challenge, truly awakened.
+"Welcome, first-years… to Strixhaven University. Look around you. Take in the soaring towers, the whispering trees, the spells that hang in the very air you breathe. Take your time to walk the Halls, the Gardens, the Streets, explore each small corner that holds within it the _history_ of this institution. Here, you will be tested, transformed, and, if you rise to the challenge, truly awakened."
 
-Beneath the Dawnbow, this ancient arc of woven light, you stand where countless great minds once stood, uncertain but unafraid. You may arrive as students of different colleges—Silverquill, Prismari, Witherbloom, Lorehold, Quandrix—but you are all bound by one thing: the pursuit of knowledge that _matters_.
+She pauses, her tone shifting slightly, a slight tension appearing on her face.
 
-Some of you will stumble. Some of you will soar. But _all_ of you are meant to be here.
+"Beneath the Dawnbow, this ancient arc of woven light, you stand where countless great minds once stood, uncertain but unafraid. Many of you will stumble. Some will soar. Strixhaven rewards those that grasp greatness.
+
+Her face relaxes agai
 
 So, take your place. Ask dangerous questions. Cast impossible spells. And never, _ever_ forget: Strixhaven is watching."
 
