@@ -17,4 +17,4 @@ We will not be running the recommended additional mechanics for monitoring Jobs,
 # Orientation
 The [[Acceptance letter]] provided to players before the campaign begins.
 
-The characters arrive at [[the Dawnbow]], and are introduced to the university by a highly enthusiastic 2nd year student ([[TBD]]), who is quickly ushered away by a Rather Stern and serious looking [[Augusta Tullus]] (lawful neutral human [[Lorehold professor of order]]). If 
+The characters arrive at [[the Dawnbow]], and are introduced to the university by a highly enthusiastic 2nd year student  , who is quickly ushered away by a Rather Stern and serious looking [[Augusta Tullus]] (lawful neutral human [[Lorehold professor of order]]). If 
