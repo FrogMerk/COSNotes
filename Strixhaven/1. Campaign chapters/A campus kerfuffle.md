@@ -199,3 +199,14 @@ actions:
 If all the characters fall [unconscious](https://5e.tools/conditionsdiseases.html#unconscious_phb) during the fight, Professor Mavinda Sharpbeak (neutral good owlin [[Silverquill professor of radiance]]; see [chapter 7](https://5e.tools/book.html#scc,8,silverquill%20professor%20of%20radiance,0)) arrives on the scene at the start of the next round and finishes off the mimic. If the characters defeat the mimic, Professor Sharpbeak arrives on the scene shortly after the group dispatches it. She carries a bag of [potions of healing](https://5e.tools/items.html#potion%20of%20healing_dmg), which she administers to any injured or [unconscious](https://5e.tools/conditionsdiseases.html#unconscious_phb) characters.
 
 A guidance counselor at Strixhaven, Professor Sharpbeak was overseeing the orientation activities, but the mass of fleeing students prevented her from responding to the incident immediately. When she has assisted any wounded characters, she introduces herself.
+
+```ad-quote
+"Students, well done!" Professor Sharpbeak exclaims, ruffling her feathers with pride. "Such bravery in this incoming class! And what a bizarre occurrence. I can't remember any of those old costume trunks ever bearing a hint of magic—let alone that manner of transmutation. I will be having a word with the equipment managers over at the Rose Stage. They're supposed to keep this sort of thing from happening!"
+```
+
+If the characters chat with the professor, she reassures them that this was an unfortunate incident—but sadly, not an unheard-of one, since strange monsters often find their way onto campus. Still, it's nothing to worry about. Before she goes, she reaches into her bag and gives each character 1 platinum piece, thanking them again for their help and welcoming them to campus.  
+
+### Examining the Trunk
+Characters who examine the mimic and succeed on a DC 12 Wisdom (Perception) check notice that the defeated trunk's wood and leather has been rubbed with a black, oily substance. If asked about this, Professor Sharpbeak says it's likely just a leather conditioner. With no magic remaining in the eldritch balm to reveal the contamination, she has no explanation for why the trunk temporarily turned into a mimic and attacked.
+
+# Frog's the Word
