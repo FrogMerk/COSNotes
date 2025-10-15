@@ -1,4 +1,5 @@
 - [ ] Create a second year student NPC (Think Hermione early on) under [Introduction]
+- [ ] Create a 
 - [ ] Make a handout for the Orientation Challenge scavenger hunt clues.
 - [ ] Review the rewards for the orientation challenge.
 ----
@@ -210,3 +211,10 @@ If the characters chat with the professor, she reassures them that this was an u
 Characters who examine the mimic and succeed on a DC 12 Wisdom (Perception) check notice that the defeated trunk's wood and leather has been rubbed with a black, oily substance. If asked about this, Professor Sharpbeak says it's likely just a leather conditioner. With no magic remaining in the eldritch balm to reveal the contamination, she has no explanation for why the trunk temporarily turned into a mimic and attacked.
 
 # Frog's the Word
+Let the party go about what they wish to. Make it known a couple of weeks have passed and they are settling in comfortably.
+
+```ad-quote
+Murmurs of excited curiosity ripple through the clusters of students around you, and {another student} suddenly barrels toward you, laughing uproariously.
+
+"You've all got to see this!" the student chortles. "We found these weird frogs and snuck them into the Fireside Lounge at Firejolt Café, and now we're going to race the little hoppers! Quick! Come see before the professors find out!"
+```
