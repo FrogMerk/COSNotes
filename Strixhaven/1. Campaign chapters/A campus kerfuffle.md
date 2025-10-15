@@ -135,3 +135,5 @@ The joyous and energetic atmosphere of the first floor is shattered by panicked 
 
 Chaos erupts in the library as students stream in all directions, their books and papers flying as they shout in fear. The only faculty mages in sight are trying to deal with panicked students. You can't just let some monster ruin the first day of classes. The words of Professor Tullus echo in your mind
 ```
+
+The LARP guild were setting up for a show when one of their costume trunks was somehow transformed into a [[mimic]] (temporarily) as a result it is weaker than the regular [[mimic]] stat block.
