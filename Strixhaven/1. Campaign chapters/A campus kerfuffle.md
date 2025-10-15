@@ -133,5 +133,5 @@ The joyous and energetic atmosphere of the first floor is shattered by panicked 
 
 "That trunk!" a young elf screams, pointing toward the stacks as she runs by. "That trunk has teeth! Please, someone, stop it!"
 
-Chaos erupts in the library as students stream in all directions, their books and papers flying as they shout in fear. The only faculty mages in sight are trying to deal with panicked students. You can't just let some monster ruin the first day of classes. The words of Professor Tullus echo in your mind, Nervous 
+Chaos erupts in the library as students stream in all directions, their books and papers flying as they shout in fear. The only faculty mages in sight are trying to deal with panicked students. You can't just let some monster ruin the first day of classes. The words of Professor Tullus echo in your mind
 ```
