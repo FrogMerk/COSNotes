@@ -1,5 +1,5 @@
 - [ ] Create a second year student NPC (Think Hermione early on) under [Introduction]
-- [ ] Create a 
+- [ ] Create a fun friend NPC for the frogs
 - [ ] Make a handout for the Orientation Challenge scavenger hunt clues.
 - [ ] Review the rewards for the orientation challenge.
 ----
@@ -216,5 +216,8 @@ Let the party go about what they wish to. Make it known a couple of weeks have p
 ```ad-quote
 Murmurs of excited curiosity ripple through the clusters of students around you, and {another student} suddenly barrels toward you, laughing uproariously.
 
+Seeing no faculty nearby, the student beckons to the characters.
+
 "You've all got to see this!" the student chortles. "We found these weird frogs and snuck them into the Fireside Lounge at Firejolt Café, and now we're going to race the little hoppers! Quick! Come see before the professors find out!"
 ```
+

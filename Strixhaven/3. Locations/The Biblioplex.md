@@ -24,6 +24,16 @@ The Biblioplex library acts as a hub for learning and gathering for students acr
 
 ![[BiblioplexDM.png]]
 
+## Biblioplex Features
+The Biblioplex has the following features:
+
+- **Ceilings.** The ceilings throughout the first floor of the Biblioplex are 50 feet high. The second- and third-floor ceilings are 30 feet high.
+
+- **Magic Stairs.** As in all Strixhaven buildings, the stairs and steps leading into and within the Biblioplex are enchanted to move and reshape for full accessibility. See the "Strixhaven Accessibility" sidebar.
+
+- **Transport Circles.** A runic circle is painted on the floor near each staircase in the Biblioplex, as well as at the top and bottom of the steps leading to the main entrance in [area B1](https://5e.tools/adventure.html#scc-ck,0,b1.%20main%20entrance,0). These circles are permanent, customized teleportation circles. When a user moves onto a circle and mentally focuses on the floor to which they wish to travel, they are transported to the destination floor, arriving at that floor's runic circle for that staircase. (Students are all aware that entering the second floor is forbidden without permission from a faculty member.) The circle at the bottom of the front steps transports users to the circle at the top of the steps and vice versa.  
+
+- Students and Professors. Students of all years and colleges can be found in the Biblioplex, as can professors from all the colleges. See [chapter 7](https://5e.tools/book.html#scc,8) for stat blocks for [first-year students](https://5e.tools/bestiary.html#first-year%20student_scc), and for apprentices, pledgemages, and professors from the different colleges.
 ## Biblioplex Locations
 The following locations are keyed to map 3.1. All descriptions assume the characters are wandering the Biblioplex during the day. At night, the library is locked and devoid of other students or staff.
 
