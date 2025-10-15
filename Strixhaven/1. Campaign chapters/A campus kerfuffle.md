@@ -137,3 +137,65 @@ Chaos erupts in the library as students stream in all directions, their books an
 ```
 
 The LARP guild were setting up for a show when one of their costume trunks was somehow transformed into a [[mimic]] (temporarily) as a result it is weaker than the regular [[mimic]] stat block.
+
+**It has disadvantage on attack rolls.**
+**Once it's defeated, the mimic turns back into an ordinary trunk.**
+
+```statblock
+name: Mimic
+source: 5e SRD
+size: Medium
+type: monstrosity
+subtype: shapechanger
+alignment: neutral
+ac: 12
+hp: 30
+hit_dice: 4d8 + 12
+speed: 15 ft.
+stats:
+  - 17
+  - 12
+  - 15
+  - 5
+  - 13
+  - 8
+skillsaves:
+  - stealth: 5
+damage_vulnerabilities: ""
+damage_resistances: ""
+damage_immunities: acid
+condition_immunities: prone
+senses: darkvision 60 ft., passive Perception 11
+languages: ""
+cr: "2"
+bestiary: true
+traits:
+  - name: Shapechanger
+    desc: The mimic can use its action to polymorph into an object or back into its true, amorphous form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn 't transformed. It reverts to its true form if it dies.
+    attack_bonus: 0
+  - name: Adhesive (Object Form Only)
+    desc: The mimic adheres to anything that touches it. A Huge or smaller creature adhered to the mimic is also grappled by it (escape DC 13). Ability checks made to escape this grapple have disadvantage.
+    attack_bonus: 0
+  - name: False Appearance (Object Form Only)
+    desc: While the mimic remains motionless, it is indistinguishable from an ordinary object.
+    attack_bonus: 0
+  - name: Grappler
+    desc: The mimic has advantage on attack rolls against any creature grappled by it.
+    attack_bonus: 0
+actions:
+  - name: Pseudopod
+    desc: "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage. If the mimic is in object form, the target is subjected to its Adhesive trait."
+    attack_bonus: 5
+    damage_dice: 1d8
+    damage_bonus: 3
+  - name: Bite
+    desc: "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 4 (1d8) acid damage."
+    attack_bonus: 5
+    damage_dice: 1d8 + 1d8
+    damage_bonus: 3
+```
+
+### Ending the Threat
+If all the characters fall [unconscious](https://5e.tools/conditionsdiseases.html#unconscious_phb) during the fight, Professor Mavinda Sharpbeak (neutral good owlin [[Silverquill professor of radiance]]; see [chapter 7](https://5e.tools/book.html#scc,8,silverquill%20professor%20of%20radiance,0)) arrives on the scene at the start of the next round and finishes off the mimic. If the characters defeat the mimic, Professor Sharpbeak arrives on the scene shortly after the group dispatches it. She carries a bag of [potions of healing](https://5e.tools/items.html#potion%20of%20healing_dmg), which she administers to any injured or [unconscious](https://5e.tools/conditionsdiseases.html#unconscious_phb) characters.
+
+A guidance counselor at Strixhaven, Professor Sharpbeak was overseeing the orientation activities, but the mass of fleeing students prevented her from responding to the incident immediately. When she has assisted any wounded characters, she introduces herself.
