@@ -234,3 +234,11 @@ Someone has used chalk to mark lanes on the floor, and multiple students are try
 A student notices the characters and shouts, "You're just in time! Want to race these frogs with us?"
 
 The amphibians in the lounge are four [frogs](https://5e.tools/bestiary.html#frog_mm) that students found outside the café and smuggled inside. The frogs' glowing colors appear to be the result of some magic the students haven't been able to source. The costumes—and the frog race that is afoot!—were the students' ideas. For the race, a single student will "coach" each frog toward the finish. The winning coach will receive bragging rights—as well as a purse of donations from the crowd that totals 30 gp.
+
+### Participating in the Race
+
+Play the horse racing card game. Deal out the side cards that set teams back before any changes have been made to the deck. Once the below options are resolved, re-shuffle
+
+- Race a Frog. A character might coach one of the frogs, encouraging it toward the finish line with words, gestures, and other antics. The character can urge their frog to victory with a successful DC 12 Wisdom (Animal Handling) check, this will remove a card from each other team's pool. Encourage a player to really sell this scene by naming their frog and coming up with ways to inspire it. 
+
+- Heckle a Coach. A character might taunt one of the coaches. If the heckled coach is another player character, that character has disadvantage on their Wisdom (Animal Handling) check to coach the frog. If the NPC fails their animal handling roll, they also lose an additional card from their deck.
