@@ -221,3 +221,16 @@ Seeing no faculty nearby, the student beckons to the characters.
 "You've all got to see this!" the student chortles. "We found these weird frogs and snuck them into the Fireside Lounge at Firejolt Café, and now we're going to race the little hoppers! Quick! Come see before the professors find out!"
 ```
 
+In the cafe after describing:
+
+```ad-quote
+The air buzzes with excitement—and the smell of coffee—as you make your way toward the back of Firejolt Café and duck into the lounge to witness the scene.
+
+Hidden from the view of the barista station, the lounge's central table has been pushed toward the wall and its chairs haphazardly tossed out of the way. In the middle of the room hop four unusual frogs. Each is glowing in vibrant colors—red, blue, violet, and orange—and has been outfitted with a tiny costume. One wears a makeshift cape, another has suspenders, a third wears a stylish bow tie, and the fourth has a top hat perched jauntily on its head.
+
+Someone has used chalk to mark lanes on the floor, and multiple students are trying to corral the frogs into a starting position.
+```
+
+A student notices the characters and shouts, "You're just in time! Want to race these frogs with us?"
+
+The amphibians in the lounge are four [frogs](https://5e.tools/bestiary.html#frog_mm) that students found outside the café and smuggled inside. The frogs' glowing colors appear to be the result of some magic the students haven't been able to source. The costumes—and the frog race that is afoot!—were the students' ideas. For the race, a single student will "coach" each frog toward the finish. The winning coach will receive bragging rights—as well as a purse of donations from the crowd that totals 30 gp.
