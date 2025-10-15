@@ -237,8 +237,10 @@ The amphibians in the lounge are four [frogs](https://5e.tools/bestiary.html#fro
 
 ### Participating in the Race
 
-Play the horse racing card game. Deal out the side cards that set teams back before any changes have been made to the deck. Once the below options are resolved, re-shuffle
+Play the horse racing card game. Deal out the side cards that set teams back before any changes have been made to the deck. Once the below options are resolved, re-shuffle the remaining cards and race!
 
 - Race a Frog. A character might coach one of the frogs, encouraging it toward the finish line with words, gestures, and other antics. The character can urge their frog to victory with a successful DC 12 Wisdom (Animal Handling) check, this will remove a card from each other team's pool. Encourage a player to really sell this scene by naming their frog and coming up with ways to inspire it. 
 
 - Heckle a Coach. A character might taunt one of the coaches. If the heckled coach is another player character, that character has disadvantage on their Wisdom (Animal Handling) check to coach the frog. If the NPC fails their animal handling roll, they also lose an additional card from their deck.
+
+If the player team win they get the 30gp prize pool to split.
