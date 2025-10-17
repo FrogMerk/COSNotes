@@ -244,3 +244,4 @@ Play the horse racing card game. Deal out the side cards that set teams back bef
 - Heckle a Coach. A character might taunt one of the coaches. If the heckled coach is another player character, that character has disadvantage on their Wisdom (Animal Handling) check to coach the frog. If the NPC fails their animal handling roll, they also lose an additional card from their deck.
 
 If the player team win they get the 30gp prize pool to split.
+
