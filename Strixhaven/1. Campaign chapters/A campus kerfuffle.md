@@ -4,7 +4,7 @@
 - [ ] Review the rewards for the orientation challenge.
 ----
 
-Begins at level 1, with cFormharacters progressing based on the milestones listed below:
+Begins at level 1, with characters progressing based on the milestones listed below:
 
 | Level | Reached When Characters...                                                      |
 | ----- | ------------------------------------------------------------------------------- |
@@ -199,7 +199,7 @@ actions:
 ### Ending the Threat
 If all the characters fall [unconscious](https://5e.tools/conditionsdiseases.html#unconscious_phb) during the fight, Professor Mavinda Sharpbeak (neutral good owlin [[Silverquill professor of radiance]]; see [chapter 7](https://5e.tools/book.html#scc,8,silverquill%20professor%20of%20radiance,0)) arrives on the scene at the start of the next round and finishes off the mimic. If the characters defeat the mimic, Professor Sharpbeak arrives on the scene shortly after the group dispatches it. She carries a bag of [potions of healing](https://5e.tools/items.html#potion%20of%20healing_dmg), which she administers to any injured or [unconscious](https://5e.tools/conditionsdiseases.html#unconscious_phb) characters.
 
-A guidance counselor at Strixhaven, Professor Sharpbeak was overseeing the orientation activities, but the mass of fleeing students prevented her from responding to the incident immediately. When she has assisted any wounded characters, she introduces herself.
+A guidance counsellor at Strixhaven, Professor Sharpbeak was overseeing the orientation activities, but the mass of fleeing students prevented her from responding to the incident immediately. When she has assisted any wounded characters, she introduces herself.
 
 ```ad-quote
 "Students, well done!" Professor Sharpbeak exclaims, ruffling her feathers with pride. "Such bravery in this incoming class! And what a bizarre occurrence. I can't remember any of those old costume trunks ever bearing a hint of magic—let alone that manner of transmutation. I will be having a word with the equipment managers over at the Rose Stage. They're supposed to keep this sort of thing from happening!"
@@ -233,7 +233,7 @@ Someone has used chalk to mark lanes on the floor, and multiple students are try
 
 A student notices the characters and shouts, "You're just in time! Want to race these frogs with us?"
 
-The amphibians in the lounge are four [frogs](https://5e.tools/bestiary.html#frog_mm) that students found outside the café and smuggled inside. The frogs' glowing colors appear to be the result of some magic the students haven't been able to source. The costumes—and the frog race that is afoot!—were the students' ideas. For the race, a single student will "coach" each frog toward the finish. The winning coach will receive bragging rights—as well as a purse of donations from the crowd that totals 30 gp.
+The amphibians in the lounge are four [frogs](https://5e.tools/bestiary.html#frog_mm) that students found outside the café and smuggled inside. The frogs' glowing colours appear to be the result of some magic the students haven't been able to source. The costumes—and the frog race that is afoot!—were the students' ideas. For the race, a single student will "coach" each frog toward the finish. The winning coach will receive bragging rights—as well as a purse of donations from the crowd that totals 30 gp.
 
 ### Participating in the Race
 
