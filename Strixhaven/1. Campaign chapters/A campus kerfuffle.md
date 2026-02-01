@@ -4,7 +4,7 @@
 - [ ] Review the rewards for the orientation challenge.
 ----
 
-Begins at level 1, with characters progressing based on the milestones listed below:
+Begins at level 1, with cFormharacters progressing based on the milestones listed below:
 
 | Level | Reached When Characters...                                                      |
 | ----- | ------------------------------------------------------------------------------- |
