@@ -296,3 +296,11 @@ actions:
     attack_bonus: 0
 
 ```
+
+The other students scatter, and it's up to the characters to subdue the giant frogs. Luckily for any character who has grown attached to a frog, any frog reduced to 0 hit points becomes docile, and its eyes return to normal. Alternatively, a character can use an action to coax a frog into shaking off the malady affecting it with a DC 15 Wisdom (Animal Handling) check. On a success, a frog becomes docile again and stops attacking. After 1 minute, each docile frog reverts back to normal size and appearance.
+
+##### Ending the Threat
+If all the characters fall [unconscious](https://5e.tools/conditionsdiseases.html#unconscious_phb), café manager Ellina Tanglewood (chaotic good elf [mage](https://5e.tools/bestiary.html#mage_mm)) rushes onto the scene and subdues the frogs. She has two [potions of healing](https://5e.tools/items.html#potion%20of%20healing_dmg) behind the barista station and can administer them as needed if anyone gets hurt.
+
+### Examining the Frogs
+Once the frogs are no longer threats, a successful DC 12 Wisdom (Perception) check reveals that the frogs belched out a strange, black oily substance just before they grew in size and attacked. It appears to be the same substance found on the trunk during orientation; indeed, [[Murgaxor]] coaxed the frogs to ingest some of the corrupted eldritch balm to cause their transformation. Any character who notices the oily substance also can tell that it smells slightly sweet, which likely encouraged the frogs to ingest it.
