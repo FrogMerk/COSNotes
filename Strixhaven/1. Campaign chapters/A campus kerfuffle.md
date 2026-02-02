@@ -8,7 +8,7 @@ Begins at level 1, with characters progressing based on the milestones listed be
 
 | Level | Reached When Characters...                                                      |
 | ----- | ------------------------------------------------------------------------------- |
-| 2nd   | Complete the first Magical Physiologies Exam                                    |
+| 2nd   | Complete the "Frogs the Word" encounter                                         |
 | 3rd   | Complete the "Campus Daredevils" section and explore Captain Dapplewing's Manor |
 | 4th   | Finish the adventure                                                            |
 ## Adventure Overview
