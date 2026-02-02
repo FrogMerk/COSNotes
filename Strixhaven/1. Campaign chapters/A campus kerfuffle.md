@@ -210,6 +210,9 @@ If the characters chat with the professor, she reassures them that this was an u
 ### Examining the Trunk
 Characters who examine the mimic and succeed on a DC 12 Wisdom (Perception) check notice that the defeated trunk's wood and leather has been rubbed with a black, oily substance. If asked about this, Professor Sharpbeak says it's likely just a leather conditioner. With no magic remaining in the eldritch balm to reveal the contamination, she has no explanation for why the trunk temporarily turned into a mimic and attacked.
 
+# Campus Life
+To give the party some freedom to explore and take part in campus life, give them some space here to discuss what they get up to over the next few weeks, noting that this is 
+
 # Frog's the Word
 Let the party go about what they wish to. Make it known a couple of weeks have passed and they are settling in comfortably.
 
@@ -305,4 +308,4 @@ If all the characters fall [unconscious](https://5e.tools/conditionsdiseases.ht
 ### Examining the Frogs
 Once the frogs are no longer threats, a successful DC 12 Wisdom (Perception) check reveals that the frogs belched out a strange, black oily substance just before they grew in size and attacked. It appears to be the same substance found on the trunk during orientation; indeed, [[Murgaxor]] coaxed the frogs to ingest some of the corrupted eldritch balm to cause their transformation. Any character who notices the oily substance also can tell that it smells slightly sweet, which likely encouraged the frogs to ingest it.
 
-## Fiel
+## 
