@@ -211,7 +211,11 @@ If the characters chat with the professor, she reassures them that this was an u
 Characters who examine the mimic and succeed on a DC 12 Wisdom (Perception) check notice that the defeated trunk's wood and leather has been rubbed with a black, oily substance. If asked about this, Professor Sharpbeak says it's likely just a leather conditioner. With no magic remaining in the eldritch balm to reveal the contamination, she has no explanation for why the trunk temporarily turned into a mimic and attacked.
 
 # Campus Life
-To give the party some freedom to explore and take part in campus life, give them some space here to discuss what they get up to over the next few weeks, noting that this is 
+To give the party some freedom to explore and take part in campus life, give them some space here to discuss what they get up to over the next few weeks, noting that this is the time in their college careers where classes are easy, just starting out, and the entire campus is abuzz with social life before we get deeper into the school year and study takes over, it's the back end of summer and the heat has hung around, every day the grounds are full of gatherings of students across the various lawns; and in the evenings the students hit up the inns and taverns on and around campus as they catch up after a long summer apart.
+
+Finish this section off with some description of the contents of the classes that they are taking, to give them some idea that school *is* actually happening here, and that their characters are spending some time studying, completing assignments and passing their classes.
+
+- [ ] Come up with a more practical class to run some RP in, preferably one shared by all the students in the party. Will need one shared class per semester, as they all take different clas
 
 # Frog's the Word
 Let the party go about what they wish to. Make it known a couple of weeks have passed and they are settling in comfortably.
