@@ -215,8 +215,7 @@ To give the party some freedom to explore and take part in campus life, give the
 
 Finish this section off with some description of the contents of the classes that they are taking, to give them some idea that school *is* actually happening here, and that their characters are spending some time studying, completing assignments and passing their classes.
 
-- [ ] Come up with a more practical class to run some RP in, preferably one shared by all the students in the party. Will need one shared class per semester, as they all take different clas
-
+- [ ] Come up with a more practical class to run some RP in, preferably one shared by all the students in the party. Will need one shared class per semester, as they all start to take different classes.
 # Frog's the Word
 Let the party go about what they wish to. Make it known a couple of weeks have passed and they are settling in comfortably.
 
