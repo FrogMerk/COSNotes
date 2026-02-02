@@ -235,7 +235,7 @@ A student notices the characters and shouts, "You're just in time! Want to race 
 
 The amphibians in the lounge are four [frogs](https://5e.tools/bestiary.html#frog_mm) that students found outside the café and smuggled inside. The frogs' glowing colours appear to be the result of some magic the students haven't been able to source. The costumes—and the frog race that is afoot!—were the students' ideas. For the race, a single student will "coach" each frog toward the finish. The winning coach will receive bragging rights—as well as a purse of donations from the crowd that totals 30 gp.
 
-### Participating in the Race
+## Participating in the Race
 
 Play the horse racing card game. Deal out the side cards that set teams back before any changes have been made to the deck. Once the below options are resolved, re-shuffle the remaining cards and race!
 
@@ -245,7 +245,7 @@ Play the horse racing card game. Deal out the side cards that set teams back bef
 
 If the player team win they get the 30gp prize pool to split.
 
-#### They've Gone Berserk!
+### They've Gone Berserk!
 
 After the race ends, the four frogs start belching strangely, and their eyes turn red. As the characters and the other students look on, the frogs suddenly grow into four [giant frogs](https://5e.tools/bestiary.html#giant%20frog_mm), shredding their makeshift costumes and furiously lashing out at the crowd!
 
@@ -299,8 +299,10 @@ actions:
 
 The other students scatter, and it's up to the characters to subdue the giant frogs. Luckily for any character who has grown attached to a frog, any frog reduced to 0 hit points becomes docile, and its eyes return to normal. Alternatively, a character can use an action to coax a frog into shaking off the malady affecting it with a DC 15 Wisdom (Animal Handling) check. On a success, a frog becomes docile again and stops attacking. After 1 minute, each docile frog reverts back to normal size and appearance.
 
-##### Ending the Threat
+### Ending the Threat
 If all the characters fall [unconscious](https://5e.tools/conditionsdiseases.html#unconscious_phb), café manager Ellina Tanglewood (chaotic good elf [mage](https://5e.tools/bestiary.html#mage_mm)) rushes onto the scene and subdues the frogs. She has two [potions of healing](https://5e.tools/items.html#potion%20of%20healing_dmg) behind the barista station and can administer them as needed if anyone gets hurt.
 
 ### Examining the Frogs
 Once the frogs are no longer threats, a successful DC 12 Wisdom (Perception) check reveals that the frogs belched out a strange, black oily substance just before they grew in size and attacked. It appears to be the same substance found on the trunk during orientation; indeed, [[Murgaxor]] coaxed the frogs to ingest some of the corrupted eldritch balm to cause their transformation. Any character who notices the oily substance also can tell that it smells slightly sweet, which likely encouraged the frogs to ingest it.
+
+## Fiel
