@@ -245,3 +245,6 @@ Play the horse racing card game. Deal out the side cards that set teams back bef
 
 If the player team win they get the 30gp prize pool to split.
 
+#### They've Gone Berserk!
+
+After the race ends, the four frogs start belching strangely, and their eyes turn red. As the characters and the other students look on, the frogs suddenly grow into four [giant frogs](https://5e.tools/bestiary.html#giant%20frog_mm), shredding their makeshift costumes and furiously lashing out at the crowd!
